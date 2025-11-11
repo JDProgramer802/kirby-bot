@@ -1,0 +1,7 @@
+# Ignorar binarios grandes
+ai/bin/
+*.dll
+*.exe
+*.zip
+*.rar
+*.tar.gz
