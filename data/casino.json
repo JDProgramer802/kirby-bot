@@ -1,0 +1,8 @@
+{
+  "cooldowns": {},
+  "odds": {},
+  "limits": {
+    "betMax": 1e+21,
+    "betMin": 100
+  }
+}

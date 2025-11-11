@@ -1,0 +1,3627 @@
+{
+  "1000": {
+    "id": "1000",
+    "name": "+1000",
+    "serie": "+1000",
+    "value": 500,
+    "images": [
+      "https://nekos.best/api/v2/neko/b813daa4-bce0-4879-b391-56d4bcb1d420.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "waifu": {
+    "id": "waifu",
+    "name": "Waifu",
+    "serie": "Waifu",
+    "value": 500,
+    "images": [
+      "https://nekos.best/api/v2/neko/8bb97612-ece4-4884-883e-838813636f3a.png",
+      "https://nekos.best/api/v2/neko/7434aaf1-befb-4cb5-871d-177160d2b4fe.png",
+      "https://cdn.waifu.im/7490.jpg",
+      "https://cdn.waifu.im/6488.gif",
+      "https://cdn.waifu.im/6929.jpg",
+      "https://cdn.waifu.im/4431.jpeg",
+      "https://cdn.waifu.im/1990.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "maid": {
+    "id": "maid",
+    "name": "Maid",
+    "serie": "Maid",
+    "value": 1500,
+    "images": [
+      "https://nekos.best/api/v2/neko/6fd32bc9-ecc4-403f-a484-2cbe27c95889.png",
+      "https://nekos.best/api/v2/neko/120a3ec7-4908-4524-8c15-46ce78389fc7.png",
+      "https://cdn.waifu.im/6641.jpeg",
+      "https://cdn.waifu.im/6637.jpg",
+      "https://cdn.waifu.im/7299.png",
+      "https://cdn.waifu.im/6530.jpeg",
+      "https://cdn.waifu.im/6602.jpeg"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "idol": {
+    "id": "idol",
+    "name": "Idol",
+    "serie": "Idol",
+    "value": 2500,
+    "images": [
+      "https://nekos.best/api/v2/neko/8a832030-c85d-4db3-949b-a12fd2a83bd1.png",
+      "https://nekos.best/api/v2/neko/c6175d18-c4da-4f81-8ac9-7d26eabd42a1.png",
+      "https://nekos.best/api/v2/neko/c19d5d8c-b514-43aa-a3cd-15f688c9aeeb.png"
+    ],
+    "videos": [],
+    "owner": "36889708998908@lid",
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "neko": {
+    "id": "neko",
+    "name": "Neko",
+    "serie": "Neko",
+    "value": 3500,
+    "images": [
+      "https://nekos.best/api/v2/neko/f310b10f-512a-4ce0-a612-f61e00dd94b8.png",
+      "https://nekos.best/api/v2/neko/9f574a35-0b1a-4276-ab26-a543da2ae221.png",
+      "https://nekos.best/api/v2/neko/4b419706-2035-40da-bd98-409d922fa133.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "witch": {
+    "id": "witch",
+    "name": "Witch",
+    "serie": "Witch",
+    "value": 4500,
+    "images": [
+      "https://nekos.best/api/v2/neko/6872ada4-6e60-4ee0-8a70-f5b0aaa7f707.png",
+      "https://nekos.best/api/v2/neko/d3957cc4-586a-42f3-bf7d-54a53c506dfb.png",
+      "https://nekos.best/api/v2/neko/dcf07c12-d419-4efa-a76d-c0cecba4da81.png"
+    ],
+    "videos": [],
+    "owner": "21234419036258@lid",
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "bunny": {
+    "id": "bunny",
+    "name": "Bunny",
+    "serie": "Bunny",
+    "value": 5500,
+    "images": [
+      "https://nekos.best/api/v2/neko/00c53e28-db60-43b0-b1a0-dd0727ee7929.png",
+      "https://nekos.best/api/v2/neko/47da4fd6-5b28-4502-8775-f9e917928c5e.png",
+      "https://nekos.best/api/v2/neko/8c93f57f-ace0-4d55-9b46-39d21d38f43b.png"
+    ],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "nurse": {
+    "id": "nurse",
+    "name": "Nurse",
+    "serie": "Nurse",
+    "value": 6500,
+    "images": [
+      "https://nekos.best/api/v2/neko/07db0ec2-1fb1-4344-b658-ded9796382c0.png",
+      "https://nekos.best/api/v2/neko/49fbe23b-9e51-419c-807f-3cbb965309b1.png",
+      "https://nekos.best/api/v2/neko/190a8df4-32f9-4c67-9018-fd9b9bb8f80c.png"
+    ],
+    "videos": [],
+    "owner": "164905772658915@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "princess": {
+    "id": "princess",
+    "name": "Princess",
+    "serie": "Princess",
+    "value": 7500,
+    "images": [
+      "https://nekos.best/api/v2/neko/6b7b855e-12f9-40d1-a92e-660514c92728.png",
+      "https://nekos.best/api/v2/neko/67264f1d-8f5c-46bc-997d-2fe0e3150944.png",
+      "https://nekos.best/api/v2/neko/3aed64af-d7fc-4472-b322-c29d29598a14.png"
+    ],
+    "videos": [],
+    "owner": "164905772658915@lid",
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "angel": {
+    "id": "angel",
+    "name": "Angel",
+    "serie": "Angel",
+    "value": 8500,
+    "images": [
+      "https://nekos.best/api/v2/neko/b8d87bbe-c3ea-4df0-92d4-e6cfa2ccd700.png",
+      "https://nekos.best/api/v2/neko/43ff216e-01a3-4fac-adde-d5035380107d.png",
+      "https://nekos.best/api/v2/neko/dd14a443-2e7d-43a3-bd52-58d3fe348257.png",
+      "https://nekos.best/api/v2/neko/8a343cec-22f6-40f6-94d6-46c632f16feb.png",
+      "https://nekos.best/api/v2/neko/9cb71b6d-a947-4d0d-bbb9-64e4d95ea9f6.png",
+      "https://nekos.best/api/v2/neko/397b85eb-ef9d-4fc6-88a9-9e1e3361cb93.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "goddess": {
+    "id": "goddess",
+    "name": "Goddess",
+    "serie": "Goddess",
+    "value": 9500,
+    "images": [
+      "https://nekos.best/api/v2/neko/f065f46f-ca4b-4c45-a3ee-ce8b064af2bb.png",
+      "https://nekos.best/api/v2/neko/dc650bea-8d1a-4034-980d-75afc365c42f.png",
+      "https://nekos.best/api/v2/neko/ce982520-ec41-4f22-9ed1-754f60fcc236.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "queen": {
+    "id": "queen",
+    "name": "Queen",
+    "serie": "Queen",
+    "value": 10500,
+    "images": [
+      "https://nekos.best/api/v2/neko/c8fac6f4-72a4-490c-b440-590cfe7ba717.png",
+      "https://nekos.best/api/v2/neko/b723f207-6aa3-46f4-bd1e-d6728866b8d7.png",
+      "https://nekos.best/api/v2/neko/e242e7f1-407b-4ec7-a983-d1d3fd14526a.png"
+    ],
+    "videos": [],
+    "owner": "21234419036258@lid",
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "valkyrie": {
+    "id": "valkyrie",
+    "name": "Valkyrie",
+    "serie": "Valkyrie",
+    "value": 11500,
+    "images": [
+      "https://nekos.best/api/v2/neko/93a7618a-e0b5-4bd8-a686-7941c05549e1.png",
+      "https://nekos.best/api/v2/neko/3690b9fe-fce9-457c-9b94-2dcc7b912e33.png",
+      "https://nekos.best/api/v2/neko/bdf548cd-4b62-45c7-a464-886ccab7ab67.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "schoolgirl": {
+    "id": "schoolgirl",
+    "name": "Schoolgirl",
+    "serie": "Schoolgirl",
+    "value": 12500,
+    "images": [
+      "https://nekos.best/api/v2/neko/a5013d7a-7481-4f34-a821-cbf0f30ceb18.png",
+      "https://nekos.best/api/v2/neko/16d0503a-61d1-4555-a275-0eae5e24a8d7.png",
+      "https://nekos.best/api/v2/neko/5e66fc73-2524-4964-a2ce-792b1b420a0d.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "magical_girl": {
+    "id": "magical_girl",
+    "name": "Magical Girl",
+    "serie": "Magical Girl",
+    "value": 13500,
+    "images": [
+      "https://nekos.best/api/v2/neko/f76f7415-7e41-4d47-8d8d-9cde489125fc.png",
+      "https://nekos.best/api/v2/neko/bbad17ad-f8f7-4101-ac88-0607c2840231.png",
+      "https://nekos.best/api/v2/neko/397b85eb-ef9d-4fc6-88a9-9e1e3361cb93.png"
+    ],
+    "videos": [],
+    "owner": "19207311880214@lid",
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "elf_girl": {
+    "id": "elf_girl",
+    "name": "Elf Girl",
+    "serie": "Elf Girl",
+    "value": 14500,
+    "images": [
+      "https://nekos.best/api/v2/neko/70d8275e-ebf8-46d8-b76b-0e38609fa351.png",
+      "https://nekos.best/api/v2/neko/2661dae7-13e7-4166-bea3-9cf0024190bf.png",
+      "https://nekos.best/api/v2/neko/247da091-a475-4e70-a89d-651fd0d78e33.png"
+    ],
+    "videos": [],
+    "owner": "87312541196502@lid",
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "catgirl": {
+    "id": "catgirl",
+    "name": "Catgirl",
+    "serie": "Catgirl",
+    "value": 15500,
+    "images": [
+      "https://nekos.best/api/v2/neko/c4701fa8-b2ec-4933-8a57-cb9e6d567088.png",
+      "https://nekos.best/api/v2/neko/1adcdd41-d2be-436a-9da2-154d40f93f81.png",
+      "https://nekos.best/api/v2/neko/224e47bc-181d-4a17-ad0b-6556bfeabc29.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "cyber_maiden": {
+    "id": "cyber_maiden",
+    "name": "Cyber Maiden",
+    "serie": "Cyber Maiden",
+    "value": 16500,
+    "images": [
+      "https://nekos.best/api/v2/neko/b4118cc4-be81-47d1-99db-1aa45d926b4d.png",
+      "https://nekos.best/api/v2/neko/95d1eb2d-d944-41c8-98ce-2e18146fdd9f.png",
+      "https://nekos.best/api/v2/neko/5376653b-aed8-4f0a-b068-e351b24dd0e5.png"
+    ],
+    "videos": [],
+    "owner": "36889708998908@lid",
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "vampire_girl": {
+    "id": "vampire_girl",
+    "name": "Vampire Girl",
+    "serie": "Vampire Girl",
+    "value": 17500,
+    "images": [
+      "https://nekos.best/api/v2/neko/d5a1b77e-2194-4b67-8193-c0791ff50827.png",
+      "https://nekos.best/api/v2/neko/776ba57b-a2b0-40b6-b69f-3bdb169f0e62.png",
+      "https://nekos.best/api/v2/neko/32976437-f40d-477c-950c-55c7664711fe.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "fairy_princess": {
+    "id": "fairy_princess",
+    "name": "Fairy Princess",
+    "serie": "Fairy Princess",
+    "value": 18500,
+    "images": [
+      "https://nekos.best/api/v2/neko/db78ff4c-5e7a-43ca-bd88-2aefdf378306.png",
+      "https://nekos.best/api/v2/neko/5f996e75-00bd-44be-ab22-ac11b920bb1a.png",
+      "https://nekos.best/api/v2/neko/e703b496-ca7d-4500-af7d-530587860e2f.png"
+    ],
+    "videos": [],
+    "owner": "19207311880214@lid",
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "fox_spirit": {
+    "id": "fox_spirit",
+    "name": "Fox Spirit",
+    "serie": "Fox Spirit",
+    "value": 19500,
+    "images": [
+      "https://nekos.best/api/v2/neko/f300f2df-7ed4-4829-9022-f98c53863d00.png",
+      "https://nekos.best/api/v2/neko/a80559ff-1380-4c42-8f28-82f976c87cf8.png",
+      "https://nekos.best/api/v2/neko/624668ed-1f71-4cf6-ab6c-f999971c0307.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "succubus": {
+    "id": "succubus",
+    "name": "Succubus",
+    "serie": "Succubus",
+    "value": 20500,
+    "images": [
+      "https://nekos.best/api/v2/neko/64066e3a-4e33-4c98-b8dc-764006aca307.png",
+      "https://nekos.best/api/v2/neko/cec784d3-e1b2-4493-92ac-21a5435f1d28.png",
+      "https://nekos.best/api/v2/neko/fc1e94ba-c90d-4f2e-974c-dcc88bca0265.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "knight_maiden": {
+    "id": "knight_maiden",
+    "name": "Knight Maiden",
+    "serie": "Knight Maiden",
+    "value": 21500,
+    "images": [
+      "https://nekos.best/api/v2/neko/00fd8041-20bb-447b-8454-c564385dbb07.png",
+      "https://nekos.best/api/v2/neko/68244486-3b82-42ba-8fdd-04f597827787.png",
+      "https://nekos.best/api/v2/neko/870cf066-10da-44b3-a2b8-2563c373a18e.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "demoness": {
+    "id": "demoness",
+    "name": "Demoness",
+    "serie": "Demoness",
+    "value": 22500,
+    "images": [
+      "https://nekos.best/api/v2/neko/a201649f-9efa-477c-87aa-4839f1d6d284.png",
+      "https://nekos.best/api/v2/neko/55813bcb-059e-48af-bd55-fede68a272be.png",
+      "https://nekos.best/api/v2/neko/2290a9da-f856-41cd-920d-821904ea45e0.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "sorceress": {
+    "id": "sorceress",
+    "name": "Sorceress",
+    "serie": "Sorceress",
+    "value": 23500,
+    "images": [
+      "https://nekos.best/api/v2/neko/d25c8cb7-69d3-4672-9947-1073a60f9083.png",
+      "https://nekos.best/api/v2/neko/a0e1bcde-743c-4b29-9ee7-09d749b22a94.png",
+      "https://nekos.best/api/v2/neko/d188436c-d926-4f26-8594-3078b9f02d0f.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "druidess": {
+    "id": "druidess",
+    "name": "Druidess",
+    "serie": "Druidess",
+    "value": 24500,
+    "images": [
+      "https://nekos.best/api/v2/neko/4dd46ae9-c4af-462d-9afe-ccdbf4b06395.png",
+      "https://nekos.best/api/v2/neko/312ac12b-5117-455e-9196-0ae2dbd0b23a.png",
+      "https://nekos.best/api/v2/neko/d780dca1-8a98-4c79-93a3-de2d8647191b.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "sun_empress": {
+    "id": "sun_empress",
+    "name": "Sun Empress",
+    "serie": "Sun Empress",
+    "value": 25500,
+    "images": [
+      "https://nekos.best/api/v2/neko/92a954eb-b212-4b7d-83e1-5880afe435a2.png",
+      "https://nekos.best/api/v2/neko/fc534ab9-eae4-4a90-b412-f8f4f57b2f1c.png",
+      "https://nekos.best/api/v2/neko/9fd4bc89-a093-4087-b9a6-59ff79d978f6.png"
+    ],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "husbando": {
+    "id": "husbando",
+    "name": "Husbando",
+    "serie": "Husbando",
+    "value": 26500,
+    "images": [
+      "https://nekos.best/api/v2/neko/744ff714-00aa-459c-82c0-964c296e47e6.png",
+      "https://nekos.best/api/v2/neko/4b11aa48-be25-4fe0-9dec-e2dbf844d83e.png",
+      "https://nekos.best/api/v2/neko/5e89b489-24eb-4788-bf7b-b984fb78d065.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "hero": {
+    "id": "hero",
+    "name": "Hero",
+    "serie": "Hero",
+    "value": 27500,
+    "images": [
+      "https://nekos.best/api/v2/neko/bdab9b97-38b7-44b0-ad0c-ada58a7f7884.png",
+      "https://nekos.best/api/v2/neko/d675793c-7c9d-44d4-899d-d16459943b97.png",
+      "https://nekos.best/api/v2/neko/e0dec0f3-c42f-45c3-89fe-af889cc9041b.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "knight": {
+    "id": "knight",
+    "name": "Knight",
+    "serie": "Knight",
+    "value": 28500,
+    "images": [
+      "https://nekos.best/api/v2/neko/c244cdf3-0908-4450-a545-96f4e2821b31.png",
+      "https://nekos.best/api/v2/neko/87bf7691-d882-4a34-8e4f-600cc6da6896.png",
+      "https://nekos.best/api/v2/neko/693879a8-ad5f-4c48-a726-78e0504c3a8b.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "samurai": {
+    "id": "samurai",
+    "name": "Samurai",
+    "serie": "Samurai",
+    "value": 29500,
+    "images": [
+      "https://nekos.best/api/v2/neko/d19b19cf-bd4b-4397-945d-8f7e33e4dbd7.png",
+      "https://nekos.best/api/v2/neko/48df34c1-570e-480b-82b1-9ff4fe278a52.png",
+      "https://nekos.best/api/v2/neko/e3fcd146-25fe-46fd-b4ce-fda468302a79.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "warrior": {
+    "id": "warrior",
+    "name": "Warrior",
+    "serie": "Warrior",
+    "value": 30500,
+    "images": [
+      "https://nekos.best/api/v2/neko/6c1c00ae-950b-4a07-b8e8-8ca3b734ecbc.png",
+      "https://nekos.best/api/v2/neko/4aaa797c-1d47-4d6c-8886-ed1c67212894.png",
+      "https://nekos.best/api/v2/neko/7d56a269-8665-49f8-8354-4b36a575f67b.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "paladin": {
+    "id": "paladin",
+    "name": "Paladin",
+    "serie": "Paladin",
+    "value": 31500,
+    "images": [
+      "https://nekos.best/api/v2/neko/a85811fe-04e6-4079-a7eb-965e59c290aa.png",
+      "https://nekos.best/api/v2/neko/f2f1514c-4475-4718-9bd2-f42216f6b42a.png",
+      "https://nekos.best/api/v2/neko/e31ed269-a3d9-49aa-b636-797a22a8dbdb.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "monk": {
+    "id": "monk",
+    "name": "Monk",
+    "serie": "Monk",
+    "value": 32500,
+    "images": [
+      "https://nekos.best/api/v2/neko/14afc26f-d3b9-4a20-a402-7ff1e157d6d7.png",
+      "https://nekos.best/api/v2/neko/fdc8f2eb-9596-4ccc-92a3-62118ef08396.png",
+      "https://nekos.best/api/v2/neko/411fbf32-6cd2-4311-b77b-499b19993752.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "king": {
+    "id": "king",
+    "name": "King",
+    "serie": "King",
+    "value": 33500,
+    "images": [
+      "https://nekos.best/api/v2/neko/3b494813-de53-4fe0-a168-ba6a3f30a81d.png",
+      "https://nekos.best/api/v2/neko/004cec4f-f69b-42ed-849c-7d6bb30ba53b.png",
+      "https://nekos.best/api/v2/neko/05479560-b3e6-49b6-9f01-1578b92e2bc3.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "lord": {
+    "id": "lord",
+    "name": "Lord",
+    "serie": "Lord",
+    "value": 34500,
+    "images": [
+      "https://nekos.best/api/v2/neko/6fd32bc9-ecc4-403f-a484-2cbe27c95889.png",
+      "https://nekos.best/api/v2/neko/386a0a53-db69-4054-a49a-9b9d44ac7f74.png",
+      "https://nekos.best/api/v2/neko/3e7eeeea-2701-4f13-999d-4296a83128c4.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "duke": {
+    "id": "duke",
+    "name": "Duke",
+    "serie": "Duke",
+    "value": 35500,
+    "images": [
+      "https://nekos.best/api/v2/neko/cc57fd3e-3d68-4fa3-bedf-685d22abad29.png",
+      "https://nekos.best/api/v2/neko/4d0652dd-d8bc-4c11-be8a-ff56ef8aee49.png",
+      "https://nekos.best/api/v2/neko/66294536-abb0-4178-b87b-69cfc825fc48.png"
+    ],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "wizard": {
+    "id": "wizard",
+    "name": "Wizard",
+    "serie": "Wizard",
+    "value": 36500,
+    "images": [
+      "https://nekos.best/api/v2/neko/70d8275e-ebf8-46d8-b76b-0e38609fa351.png",
+      "https://nekos.best/api/v2/neko/f265c0e2-1638-4fb9-98d1-d673f5bc2602.png",
+      "https://nekos.best/api/v2/neko/07dac540-bf40-48ae-84f8-1904fdc868d2.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "swordsman": {
+    "id": "swordsman",
+    "name": "Swordsman",
+    "serie": "Swordsman",
+    "value": 37500,
+    "images": [
+      "https://nekos.best/api/v2/neko/141d4cc4-2400-4ebc-86bb-6bd71bb8a7f3.png",
+      "https://nekos.best/api/v2/neko/c5fcbbc7-0434-4548-b044-81e5230e9d7e.png",
+      "https://nekos.best/api/v2/neko/3dd91927-09af-4222-8646-cb31b022490a.png"
+    ],
+    "videos": [],
+    "owner": "22608942776369@lid",
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "archer": {
+    "id": "archer",
+    "name": "Archer",
+    "serie": "Archer",
+    "value": 38500,
+    "images": [
+      "https://nekos.best/api/v2/neko/b76c9aed-e8e6-43ad-8b6c-be9a36ca2a0b.png",
+      "https://nekos.best/api/v2/neko/7536100c-082f-4468-bdb0-3c3d7b75f3e6.png",
+      "https://nekos.best/api/v2/neko/173a67d1-3431-465d-96a0-ce2b2a8a98f8.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "soldier": {
+    "id": "soldier",
+    "name": "Soldier",
+    "serie": "Soldier",
+    "value": 39500,
+    "images": [
+      "https://nekos.best/api/v2/neko/015fca4a-99cf-4400-92e6-5832c89c96fa.png",
+      "https://nekos.best/api/v2/neko/878c05a6-e95c-496c-9f5c-061f4b0646fd.png",
+      "https://nekos.best/api/v2/neko/73751e8e-7a34-4d1b-9948-f0027adba43b.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "captain": {
+    "id": "captain",
+    "name": "Captain",
+    "serie": "Captain",
+    "value": 40500,
+    "images": [
+      "https://nekos.best/api/v2/neko/d21517de-4dbe-4c1b-a95c-0bdd77e22357.png",
+      "https://nekos.best/api/v2/neko/69109d2f-d337-49e2-b836-8755622617db.png",
+      "https://nekos.best/api/v2/neko/7b18150a-0d5f-4f86-ab75-9258d7c61711.png"
+    ],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "ranger": {
+    "id": "ranger",
+    "name": "Ranger",
+    "serie": "Ranger",
+    "value": 41500,
+    "images": [
+      "https://nekos.best/api/v2/neko/af9e8bf7-73be-4791-a926-69cf09b7b8e2.png",
+      "https://nekos.best/api/v2/neko/86382ee1-ac93-4583-b753-a807a067c719.png",
+      "https://nekos.best/api/v2/neko/09c3e184-ca96-4c59-a213-fca90fca95dc.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "shinobi": {
+    "id": "shinobi",
+    "name": "Shinobi",
+    "serie": "Shinobi",
+    "value": 42500,
+    "images": [
+      "https://nekos.best/api/v2/neko/b0491c9d-c82c-4de4-b4db-ea23c94c35f5.png",
+      "https://nekos.best/api/v2/neko/92489cf4-f2b4-4185-996e-8812dbf99e60.png",
+      "https://nekos.best/api/v2/neko/d912986a-73da-41b0-a79e-f82aafc7da6f.png"
+    ],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "pirate": {
+    "id": "pirate",
+    "name": "Pirate",
+    "serie": "Pirate",
+    "value": 43500,
+    "images": [
+      "https://nekos.best/api/v2/neko/492586c9-d5e0-42ab-b231-b07211862ab4.png",
+      "https://nekos.best/api/v2/neko/00f02871-f5d1-4703-8f81-61f0676e7e67.png",
+      "https://nekos.best/api/v2/neko/3b84301d-e35b-4726-881f-2644219efe9e.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "hunter": {
+    "id": "hunter",
+    "name": "Hunter",
+    "serie": "Hunter",
+    "value": 44500,
+    "images": [
+      "https://nekos.best/api/v2/neko/52b11a91-83a9-46be-89c3-3c8d753a2f5c.png",
+      "https://nekos.best/api/v2/neko/e09c20d5-7ca3-4826-b0d3-0002241dfb14.png",
+      "https://nekos.best/api/v2/neko/09aec782-d002-41d1-b1c1-576a374df12b.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "vampire": {
+    "id": "vampire",
+    "name": "Vampire",
+    "serie": "Vampire",
+    "value": 45500,
+    "images": [
+      "https://nekos.best/api/v2/neko/7e89c32e-6b7e-499f-9855-2137fcb98e10.png",
+      "https://nekos.best/api/v2/neko/dcda2fb2-e66f-4beb-96ee-471c78e4e67e.png",
+      "https://nekos.best/api/v2/neko/4f7d4a8a-3d91-40c7-8361-762e560287f5.png"
+    ],
+    "videos": [],
+    "owner": "36889708998908@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "samurai_lord": {
+    "id": "samurai_lord",
+    "name": "Samurai Lord",
+    "serie": "Samurai Lord",
+    "value": 46500,
+    "images": [
+      "https://nekos.best/api/v2/neko/3e6e9eba-e394-4a56-861a-9f6474f371ca.png",
+      "https://nekos.best/api/v2/neko/7c657088-5bc9-4b6b-a952-7c085ccf663c.png",
+      "https://nekos.best/api/v2/neko/fafff17d-76ea-42fb-b725-08d573fc9d94.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "dark_knight": {
+    "id": "dark_knight",
+    "name": "Dark Knight",
+    "serie": "Dark Knight",
+    "value": 47500,
+    "images": [
+      "https://nekos.best/api/v2/neko/d00bc37d-2f22-42a0-9c33-f8bca2239813.png",
+      "https://nekos.best/api/v2/neko/58d6f1c8-aa85-4abc-8098-7b04eaf57477.png",
+      "https://nekos.best/api/v2/neko/702dbe37-5ece-4a23-91b8-b7d71d32ca04.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "dragon_slayer": {
+    "id": "dragon_slayer",
+    "name": "Dragon Slayer",
+    "serie": "Dragon Slayer",
+    "value": 48500,
+    "images": [
+      "https://nekos.best/api/v2/neko/1ada106b-3978-4ef0-99c7-7ef65338240b.png",
+      "https://nekos.best/api/v2/neko/3ee67895-4cc4-44cf-afb8-fdac2c312af5.png",
+      "https://nekos.best/api/v2/neko/9f1f971b-cf57-4785-a953-02dfe6a3a228.png"
+    ],
+    "videos": [],
+    "owner": "21234419036258@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "paladin_king": {
+    "id": "paladin_king",
+    "name": "Paladin King",
+    "serie": "Paladin King",
+    "value": 49500,
+    "images": [
+      "https://nekos.best/api/v2/neko/c4847ad2-c015-4daa-968c-5674287a469b.png",
+      "https://nekos.best/api/v2/neko/37bcdc28-798e-4be3-9c39-4d1f94c2f305.png",
+      "https://nekos.best/api/v2/neko/00ea88fb-5439-4250-91b4-754d2c50b362.png"
+    ],
+    "videos": [],
+    "owner": "84104737476856@lid",
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "crimson_samurai": {
+    "id": "crimson_samurai",
+    "name": "Crimson Samurai",
+    "serie": "Crimson Samurai",
+    "value": 50500,
+    "images": [
+      "https://nekos.best/api/v2/neko/9905077a-b81e-413e-9cb1-47af225c73b7.png",
+      "https://nekos.best/api/v2/neko/7cba1bfd-1e9d-4ccd-9519-4f523eb3af60.png",
+      "https://nekos.best/api/v2/neko/c30c0d20-13dd-4fc2-a883-df567e6b8b2d.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "cyber_soldier": {
+    "id": "cyber_soldier",
+    "name": "Cyber Soldier",
+    "serie": "Cyber Soldier",
+    "value": 51500,
+    "images": [
+      "https://nekos.best/api/v2/neko/f6a2c5bc-b787-40dc-83c7-31195dd42e6f.png",
+      "https://nekos.best/api/v2/neko/cd289b8f-ade0-46f5-a126-e1cd1a8ab520.png",
+      "https://nekos.best/api/v2/neko/731060fe-38a6-439b-9592-3a9a5451d90f.png"
+    ],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "nobleman": {
+    "id": "nobleman",
+    "name": "Nobleman",
+    "serie": "Nobleman",
+    "value": 52500,
+    "images": [
+      "https://nekos.best/api/v2/neko/634d4c48-df22-4a73-a665-836ab6cd41de.png",
+      "https://nekos.best/api/v2/neko/85db4c29-4d80-4eb1-919e-6ba222bf30fe.png",
+      "https://nekos.best/api/v2/neko/23cebf52-6c71-4b73-acb5-33fd1ea3b023.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "barbarian": {
+    "id": "barbarian",
+    "name": "Barbarian",
+    "serie": "Barbarian",
+    "value": 53500,
+    "images": [
+      "https://nekos.best/api/v2/neko/4b0f5738-00a7-4f03-bbd8-a11abdc26c0a.png",
+      "https://nekos.best/api/v2/neko/ad1ac202-987f-4892-b7dc-dc3398a080c1.png",
+      "https://nekos.best/api/v2/neko/31687296-3750-4d95-9075-806c1df2aa4f.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "berserker": {
+    "id": "berserker",
+    "name": "Berserker",
+    "serie": "Berserker",
+    "value": 54500,
+    "images": [
+      "https://nekos.best/api/v2/neko/160224cf-8c66-4a4e-bbe6-f0072bee66b0.png",
+      "https://nekos.best/api/v2/neko/5005b597-1181-4a23-8517-f5a6b0855b82.png",
+      "https://nekos.best/api/v2/neko/94c6cf29-1aa1-4266-ae9c-a6abb54501f4.png"
+    ],
+    "videos": [],
+    "owner": "245775728672973@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "prince": {
+    "id": "prince",
+    "name": "Prince",
+    "serie": "Prince",
+    "value": 55500,
+    "images": [
+      "https://nekos.best/api/v2/neko/2f4bea8b-b3f3-42de-badd-899a1da3f066.png",
+      "https://nekos.best/api/v2/neko/535eb098-72f0-4c08-97d5-ba75fd871500.png",
+      "https://nekos.best/api/v2/neko/4eb56953-ee16-44b9-9971-8d62f387397e.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "saint": {
+    "id": "saint",
+    "name": "Saint",
+    "serie": "Saint",
+    "value": 56500,
+    "images": [
+      "https://nekos.best/api/v2/neko/b9bd076f-a657-49d3-a60e-cb758f62ad0b.png",
+      "https://nekos.best/api/v2/neko/267466eb-520f-4fad-ac1f-889f03f3fd73.png",
+      "https://nekos.best/api/v2/neko/6d7d5d98-7d13-40ea-b316-0b5caab69765.png"
+    ],
+    "videos": [],
+    "owner": "164905772658915@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "angelic_knight": {
+    "id": "angelic_knight",
+    "name": "Angelic Knight",
+    "serie": "Angelic Knight",
+    "value": 57500,
+    "images": [
+      "https://nekos.best/api/v2/neko/df64e746-4597-49bc-b97d-da4c0f0c8d09.png",
+      "https://nekos.best/api/v2/neko/bf18e72c-e661-496f-94bd-d1543acf98a8.png",
+      "https://nekos.best/api/v2/neko/a435004e-19ec-4aa9-8589-2bfed471cabb.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "shadow_warrior": {
+    "id": "shadow_warrior",
+    "name": "Shadow Warrior",
+    "serie": "Shadow Warrior",
+    "value": 58500,
+    "images": [
+      "https://nekos.best/api/v2/neko/d1af0a3a-71c3-4712-ad58-de26ecd0c002.png",
+      "https://nekos.best/api/v2/neko/2ada8840-5e95-4dcc-95ca-4ecb52b64a26.png",
+      "https://nekos.best/api/v2/neko/b133099f-ddca-446a-b795-e914062ad695.png"
+    ],
+    "videos": [],
+    "owner": "84104737476856@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "reaper": {
+    "id": "reaper",
+    "name": "Reaper",
+    "serie": "Reaper",
+    "value": 59500,
+    "images": [
+      "https://nekos.best/api/v2/neko/2c670983-f50a-4106-af1f-63e67ad78dc4.png",
+      "https://nekos.best/api/v2/neko/cb68a634-897c-425e-bc9e-20094bca7c84.png",
+      "https://nekos.best/api/v2/neko/ff153284-8c74-4183-b3ff-08206938ca6f.png",
+      "https://nekos.best/api/v2/neko/4b26ee64-8ba1-45ae-8811-cacb3cde5ad8.png",
+      "https://nekos.best/api/v2/neko/d85f416e-cb89-4df2-9565-ae1867d733aa.png",
+      "https://nekos.best/api/v2/neko/8c93f57f-ace0-4d55-9b46-39d21d38f43b.png"
+    ],
+    "videos": [],
+    "owner": "245775728672973@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "sage": {
+    "id": "sage",
+    "name": "Sage",
+    "serie": "Sage",
+    "value": 60500,
+    "images": [
+      "https://nekos.best/api/v2/neko/4eb0e8b5-1122-42f8-8d91-7bdfed704bbc.png",
+      "https://nekos.best/api/v2/neko/7cba1bfd-1e9d-4ccd-9519-4f523eb3af60.png",
+      "https://nekos.best/api/v2/neko/ef364722-6404-4ebb-8d5a-041ce77003fd.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "mage": {
+    "id": "mage",
+    "name": "Mage",
+    "serie": "Mage",
+    "value": 61500,
+    "images": [
+      "https://nekos.best/api/v2/neko/ad97e926-4d4b-4902-a833-1e142f2b593e.png",
+      "https://nekos.best/api/v2/neko/775a04ec-6255-4c09-8513-acc2897d5852.png",
+      "https://nekos.best/api/v2/neko/b6979f75-9c41-48a9-a2be-e23fff280050.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "demon_lord": {
+    "id": "demon_lord",
+    "name": "Demon Lord",
+    "serie": "Demon Lord",
+    "value": 62500,
+    "images": [
+      "https://nekos.best/api/v2/neko/0ffb84de-4976-4078-a4c6-3f855faf57d4.png",
+      "https://nekos.best/api/v2/neko/cf753ca9-e909-47c3-8c27-b4eb23b7d5a5.png",
+      "https://nekos.best/api/v2/neko/95e7545a-6369-4cf4-a0fa-89305c206576.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "bandit": {
+    "id": "bandit",
+    "name": "Bandit",
+    "serie": "Bandit",
+    "value": 63500,
+    "images": [
+      "https://nekos.best/api/v2/neko/878bc6ec-1031-484c-9278-f2de9ff9a846.png",
+      "https://nekos.best/api/v2/neko/a85d85ef-fb26-4674-a631-f1482cf44492.png",
+      "https://nekos.best/api/v2/neko/bc592279-4b9d-4213-893a-6a6976b20eb1.png"
+    ],
+    "videos": [],
+    "owner": "255520992673847@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "mercenary": {
+    "id": "mercenary",
+    "name": "Mercenary",
+    "serie": "Mercenary",
+    "value": 64500,
+    "images": [
+      "https://nekos.best/api/v2/neko/9595c419-a6be-4ce9-80d4-660e0fe759de.png",
+      "https://nekos.best/api/v2/neko/07996548-24a8-44b5-9200-2a0a74309eb3.png",
+      "https://nekos.best/api/v2/neko/6c8a3ede-123c-4f4d-858d-8789d4b5f6de.png"
+    ],
+    "videos": [],
+    "owner": "19207311880214@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "mecha_knight": {
+    "id": "mecha_knight",
+    "name": "Mecha Knight",
+    "serie": "Mecha Knight",
+    "value": 65500,
+    "images": [
+      "https://nekos.best/api/v2/neko/ad8a01e7-bec0-445b-b45e-fc5fdba645d9.png",
+      "https://nekos.best/api/v2/neko/c895efaa-c339-4e4e-98cb-6883ecd69cf3.png",
+      "https://nekos.best/api/v2/neko/ed640dbf-a18a-44a2-87a8-717fc0a96794.png"
+    ],
+    "videos": [],
+    "owner": "84104737476856@lid",
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "battle_monk": {
+    "id": "battle_monk",
+    "name": "Battle Monk",
+    "serie": "Battle Monk",
+    "value": 66500,
+    "images": [
+      "https://nekos.best/api/v2/neko/b9422aa2-3250-465b-834f-aa0201ac69b6.png",
+      "https://nekos.best/api/v2/neko/a04f0358-0f83-458f-a02b-90f00a18255b.png",
+      "https://nekos.best/api/v2/neko/9821d000-3a0e-4c30-b4d5-fc8e38164c50.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "archmage": {
+    "id": "archmage",
+    "name": "Archmage",
+    "serie": "Archmage",
+    "value": 67500,
+    "images": [
+      "https://nekos.best/api/v2/neko/5bbe5dfd-a479-4b83-a925-b5db76efb9c5.png",
+      "https://nekos.best/api/v2/neko/99f08225-eb06-441b-844f-41ee68d00fc9.png",
+      "https://nekos.best/api/v2/neko/8cff14b4-7c8d-4892-93be-e461717bd768.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "heroic_spirit": {
+    "id": "heroic_spirit",
+    "name": "Heroic Spirit",
+    "serie": "Heroic Spirit",
+    "value": 68500,
+    "images": [
+      "https://nekos.best/api/v2/neko/ec9e7d70-818d-4378-9499-07a52ce796ec.png",
+      "https://nekos.best/api/v2/neko/932a3172-8999-476c-a9b2-aa06bddf8bdb.png",
+      "https://nekos.best/api/v2/neko/99e262a5-9e21-4da1-9479-ea8497620b0f.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "war_general": {
+    "id": "war_general",
+    "name": "War General",
+    "serie": "War General",
+    "value": 69500,
+    "images": [
+      "https://nekos.best/api/v2/neko/57a96157-87db-4086-a7bd-252ad9148938.png",
+      "https://nekos.best/api/v2/neko/3bfb8fb1-cd1b-4c99-a2bc-3c7b62e98f1f.png",
+      "https://nekos.best/api/v2/neko/6b21c511-fce9-4e18-b7a9-97197bb6af77.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "cyber_warrior": {
+    "id": "cyber_warrior",
+    "name": "Cyber Warrior",
+    "serie": "Cyber Warrior",
+    "value": 70500,
+    "images": [
+      "https://nekos.best/api/v2/neko/8b233f61-ef57-4695-b2d8-de2eac32d1d1.png",
+      "https://nekos.best/api/v2/neko/2a390fd7-6816-4f10-95bd-5c74fe24e0a0.png",
+      "https://nekos.best/api/v2/neko/74a88d01-9c2b-4fe9-bf17-3c013129b5e1.png"
+    ],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "royal_knight": {
+    "id": "royal_knight",
+    "name": "Royal Knight",
+    "serie": "Royal Knight",
+    "value": 71500,
+    "images": [
+      "https://nekos.best/api/v2/neko/c8b3911c-5746-4770-b1d0-afe9ffc655b7.png",
+      "https://nekos.best/api/v2/neko/2ac53514-f4e7-4dae-8918-0cbcfb101879.png",
+      "https://nekos.best/api/v2/neko/23f34adb-e83f-4b35-90bc-bb45527c6eba.png"
+    ],
+    "videos": [],
+    "owner": "21234419036258@lid",
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "desert_nomad": {
+    "id": "desert_nomad",
+    "name": "Desert Nomad",
+    "serie": "Desert Nomad",
+    "value": 72500,
+    "images": [
+      "https://nekos.best/api/v2/neko/534ec1ba-4402-4181-9ca9-2675380df482.png",
+      "https://nekos.best/api/v2/neko/fa54db9a-ab1f-40de-a42d-16f9ff9b3955.png",
+      "https://nekos.best/api/v2/neko/8dae1962-1611-4447-9be5-828ff9fb487f.png"
+    ],
+    "videos": [],
+    "owner": "36889708998908@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "storm_paladin": {
+    "id": "storm_paladin",
+    "name": "Storm Paladin",
+    "serie": "Storm Paladin",
+    "value": 73500,
+    "images": [
+      "https://nekos.best/api/v2/neko/a86354ee-dd36-47f2-9805-d18a0d6861eb.png",
+      "https://nekos.best/api/v2/neko/fce878b4-f97a-4b3a-87fe-546c478b6010.png",
+      "https://nekos.best/api/v2/neko/d9b75555-e688-4373-8928-d18e7bbf087e.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "phoenix_knight": {
+    "id": "phoenix_knight",
+    "name": "Phoenix Knight",
+    "serie": "Phoenix Knight",
+    "value": 74500,
+    "images": [
+      "https://nekos.best/api/v2/neko/d07caefd-23a8-41d9-8e63-a6303f3dda72.png",
+      "https://nekos.best/api/v2/neko/f57e7256-1cef-4a12-b46e-ac1a104da040.png",
+      "https://nekos.best/api/v2/neko/d26ac42e-3e8d-489b-8c3d-bb747a043e62.png"
+    ],
+    "videos": [],
+    "owner": "52373569429752@lid",
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "celestial_guardian": {
+    "id": "celestial_guardian",
+    "name": "Celestial Guardian",
+    "serie": "Celestial Guardian",
+    "value": 75500,
+    "images": [
+      "https://nekos.best/api/v2/neko/3e112020-2ff4-4dd9-b232-354d04cfc097.png",
+      "https://nekos.best/api/v2/neko/9d4bdf3d-a883-4ce9-a6f0-f8b4860762fd.png",
+      "https://nekos.best/api/v2/neko/fe06ff8c-761e-4c13-9008-a6f849481503.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "forest_guardian": {
+    "id": "forest_guardian",
+    "name": "Forest Guardian",
+    "serie": "Forest Guardian",
+    "value": 76500,
+    "images": [
+      "https://nekos.best/api/v2/neko/b2803ea7-bcfc-4d3a-a42f-618c43fc7c5f.png",
+      "https://nekos.best/api/v2/neko/1270fc5f-b51c-4bbd-924f-91b14eb4fee2.png",
+      "https://nekos.best/api/v2/neko/1e1a611d-d9b1-4a14-a8cc-efd6b4fa2c8b.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "ice_prince": {
+    "id": "ice_prince",
+    "name": "Ice Prince",
+    "serie": "Ice Prince",
+    "value": 77500,
+    "images": [
+      "https://nekos.best/api/v2/neko/5f440623-4f2c-41c1-a548-19b10ebbbe7c.png",
+      "https://nekos.best/api/v2/neko/b5fdbcd7-e670-4597-a6ee-e3a6a90765d9.png",
+      "https://nekos.best/api/v2/neko/d47cc4f8-6a35-4ae4-9b64-3c3f953dd90b.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "lava_dragon_knight": {
+    "id": "lava_dragon_knight",
+    "name": "Lava Dragon Knight",
+    "serie": "Lava Dragon Knight",
+    "value": 78500,
+    "images": [
+      "https://nekos.best/api/v2/neko/060fab3d-207f-4791-b846-5fbbcd80d712.png",
+      "https://nekos.best/api/v2/neko/00f02871-f5d1-4703-8f81-61f0676e7e67.png",
+      "https://nekos.best/api/v2/neko/fa852287-c963-4231-856a-7b8a0d9dcee4.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "dragon": {
+    "id": "dragon",
+    "name": "Dragon",
+    "serie": "Dragon",
+    "value": 79500,
+    "images": [
+      "https://nekos.best/api/v2/neko/9820bb92-0558-4ca1-91ea-a511d7f7071d.png",
+      "https://nekos.best/api/v2/neko/7ec7307d-6eca-4329-b100-f6a0a54e0b13.png",
+      "https://nekos.best/api/v2/neko/aea0203e-aae4-420a-97e7-62e3bb4f3261.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "slime": {
+    "id": "slime",
+    "name": "Slime",
+    "serie": "Slime",
+    "value": 80500,
+    "images": [
+      "https://nekos.best/api/v2/neko/d3957cc4-586a-42f3-bf7d-54a53c506dfb.png",
+      "https://nekos.best/api/v2/neko/a92bf34a-2674-48b3-a8ab-fb2a8dc7e6b8.png",
+      "https://nekos.best/api/v2/neko/f94fc515-c4c3-4a93-8d4b-c0a932dc16e9.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "demon": {
+    "id": "demon",
+    "name": "Demon",
+    "serie": "Demon",
+    "value": 81500,
+    "images": [
+      "https://nekos.best/api/v2/neko/830b153a-a0c0-47ef-8f0b-31c91eae9df6.png",
+      "https://nekos.best/api/v2/neko/16783b60-c15e-44f2-b854-3496bca52ea3.png",
+      "https://nekos.best/api/v2/neko/3a79f9db-cd5d-4d3f-b273-6d173e3f5dcb.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "spirit": {
+    "id": "spirit",
+    "name": "Spirit",
+    "serie": "Spirit",
+    "value": 82500,
+    "images": [
+      "https://nekos.best/api/v2/neko/95c7b410-a9cc-4a01-90e3-6f25e89a66fa.png",
+      "https://nekos.best/api/v2/neko/bdf548cd-4b62-45c7-a464-886ccab7ab67.png",
+      "https://nekos.best/api/v2/neko/29ae6170-a505-442f-8de7-c4514f46d539.png"
+    ],
+    "videos": [],
+    "owner": "21234419036258@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "robot": {
+    "id": "robot",
+    "name": "Robot",
+    "serie": "Robot",
+    "value": 83500,
+    "images": [
+      "https://nekos.best/api/v2/neko/c0b0f785-87eb-4730-a1bd-10f87c3c46c8.png",
+      "https://nekos.best/api/v2/neko/0a6ecc3f-7b33-4064-b41d-f17e0f638f15.png",
+      "https://nekos.best/api/v2/neko/ad4e7139-6015-4f78-959e-567e1f086984.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "ghost": {
+    "id": "ghost",
+    "name": "Ghost",
+    "serie": "Ghost",
+    "value": 84500,
+    "images": [
+      "https://nekos.best/api/v2/neko/082a1db2-70b0-4b62-bbc2-e3c0479fef14.png",
+      "https://nekos.best/api/v2/neko/70c20092-dd82-4130-9f05-548aacbe5ac8.png",
+      "https://nekos.best/api/v2/neko/190a8df4-32f9-4c67-9018-fd9b9bb8f80c.png"
+    ],
+    "videos": [],
+    "owner": "52373569429752@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "cyborg": {
+    "id": "cyborg",
+    "name": "Cyborg",
+    "serie": "Cyborg",
+    "value": 85500,
+    "images": [
+      "https://nekos.best/api/v2/neko/9e1d050b-6368-4a1c-83ce-5a9aab3208fb.png",
+      "https://nekos.best/api/v2/neko/b2d67731-b75f-46ab-aa99-bba7bc36ac91.png",
+      "https://nekos.best/api/v2/neko/877902fa-1c17-441b-b0e2-38ce6633cdb6.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "alien": {
+    "id": "alien",
+    "name": "Alien",
+    "serie": "Alien",
+    "value": 86500,
+    "images": [
+      "https://nekos.best/api/v2/neko/26874b29-e0d2-47cc-83fb-9afbf3899156.png",
+      "https://nekos.best/api/v2/neko/85e29f15-3b03-4b10-aa06-92526b2856fd.png",
+      "https://nekos.best/api/v2/neko/43b87c93-378b-43f2-a27b-acc568c2055e.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "android": {
+    "id": "android",
+    "name": "Android",
+    "serie": "Android",
+    "value": 87500,
+    "images": [
+      "https://nekos.best/api/v2/neko/2c670983-f50a-4106-af1f-63e67ad78dc4.png",
+      "https://nekos.best/api/v2/neko/2d67c911-8ffa-4d60-889b-faa6c3d19afa.png",
+      "https://nekos.best/api/v2/neko/d72f8833-8acb-4a2d-8e38-3b49f09e5e82.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "beast": {
+    "id": "beast",
+    "name": "Beast",
+    "serie": "Beast",
+    "value": 88500,
+    "images": [
+      "https://nekos.best/api/v2/neko/29632b03-196a-4a64-81ad-430ad745e9b6.png",
+      "https://nekos.best/api/v2/neko/67ada678-5093-4242-be02-a02a17531699.png",
+      "https://nekos.best/api/v2/neko/3bfb8fb1-cd1b-4c99-a2bc-3c7b62e98f1f.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "elf": {
+    "id": "elf",
+    "name": "Elf",
+    "serie": "Elf",
+    "value": 89500,
+    "images": [
+      "https://nekos.best/api/v2/neko/3644a607-41ec-47ef-9048-5d0552fbdde3.png",
+      "https://nekos.best/api/v2/neko/f87cd89e-3b14-42a8-be0c-2e22ddf02b82.png",
+      "https://nekos.best/api/v2/neko/cac4403c-931a-4ae1-9d0b-a2c6e5f8aa56.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "oni": {
+    "id": "oni",
+    "name": "Oni",
+    "serie": "Oni",
+    "value": 90500,
+    "images": [
+      "https://nekos.best/api/v2/neko/e7b2d0ea-8d1c-4cd8-91e5-4e20874beb00.png",
+      "https://nekos.best/api/v2/neko/f719b2a3-0b60-4970-ad6c-4d39f8b35f9a.png",
+      "https://nekos.best/api/v2/neko/40cb2cba-e95a-4a44-8087-a06bbe4b11df.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "zombie": {
+    "id": "zombie",
+    "name": "Zombie",
+    "serie": "Zombie",
+    "value": 91500,
+    "images": [
+      "https://nekos.best/api/v2/neko/0b2e8b8b-aec3-4bda-bec4-d383daaef09c.png",
+      "https://nekos.best/api/v2/neko/5d292d34-6d1d-43f2-af36-dbe6da3b68c4.png",
+      "https://nekos.best/api/v2/neko/c132f2c1-2f82-4939-910a-ac52b228f549.png"
+    ],
+    "videos": [],
+    "owner": "22608942776369@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "golem": {
+    "id": "golem",
+    "name": "Golem",
+    "serie": "Golem",
+    "value": 92500,
+    "images": [
+      "https://nekos.best/api/v2/neko/36948aa8-3c9d-4012-99d8-90e9a93612fb.png",
+      "https://nekos.best/api/v2/neko/970f7a92-d2a1-4a68-afcc-4d3e140782c4.png",
+      "https://nekos.best/api/v2/neko/db78ff4c-5e7a-43ca-bd88-2aefdf378306.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "seraph": {
+    "id": "seraph",
+    "name": "Seraph",
+    "serie": "Seraph",
+    "value": 93500,
+    "images": [
+      "https://nekos.best/api/v2/neko/93a7618a-e0b5-4bd8-a686-7941c05549e1.png",
+      "https://nekos.best/api/v2/neko/291be593-ce43-4817-a7c6-358b7d224f2b.png",
+      "https://nekos.best/api/v2/neko/30e6465d-6aa6-4191-af0e-c740708985d5.png"
+    ],
+    "videos": [],
+    "owner": "21234419036258@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "phoenix": {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "serie": "Phoenix",
+    "value": 94500,
+    "images": [
+      "https://nekos.best/api/v2/neko/64066e3a-4e33-4c98-b8dc-764006aca307.png",
+      "https://nekos.best/api/v2/neko/bc461f75-147b-446b-ad49-7edfb82468d2.png",
+      "https://nekos.best/api/v2/neko/9c216a7d-af0a-497f-9a9e-39e56803436c.png"
+    ],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "chimera": {
+    "id": "chimera",
+    "name": "Chimera",
+    "serie": "Chimera",
+    "value": 95500,
+    "images": [
+      "https://nekos.best/api/v2/neko/d6c87369-732b-4dda-ad1f-21a66fe10a42.png",
+      "https://nekos.best/api/v2/neko/c0454b54-4582-4372-bc1a-e5e0e9b909d8.png",
+      "https://nekos.best/api/v2/neko/ac1370f2-243c-4773-a357-7fc34eed18df.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "hydra": {
+    "id": "hydra",
+    "name": "Hydra",
+    "serie": "Hydra",
+    "value": 96500,
+    "images": [
+      "https://nekos.best/api/v2/neko/c6175d18-c4da-4f81-8ac9-7d26eabd42a1.png",
+      "https://nekos.best/api/v2/neko/55c823e3-de66-4bde-99dd-dcb73aeb8ed4.png",
+      "https://nekos.best/api/v2/neko/98dd288e-c823-46eb-9a0f-2424a547965b.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "griffon": {
+    "id": "griffon",
+    "name": "Griffon",
+    "serie": "Griffon",
+    "value": 97500,
+    "images": [
+      "https://nekos.best/api/v2/neko/2bdaad7f-e201-40bb-a514-6bfefc9ae342.png",
+      "https://nekos.best/api/v2/neko/705709bd-a3c3-4bd1-9bfd-505407d0000f.png",
+      "https://nekos.best/api/v2/neko/b133099f-ddca-446a-b795-e914062ad695.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "mimic": {
+    "id": "mimic",
+    "name": "Mimic",
+    "serie": "Mimic",
+    "value": 98500,
+    "images": [
+      "https://nekos.best/api/v2/neko/0c86089e-9d5f-4896-afd4-da6a1455b5bc.png",
+      "https://nekos.best/api/v2/neko/a86354ee-dd36-47f2-9805-d18a0d6861eb.png",
+      "https://nekos.best/api/v2/neko/ae098d1d-4960-4b74-b469-a76333d5b243.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "shadow_beast": {
+    "id": "shadow_beast",
+    "name": "Shadow Beast",
+    "serie": "Shadow Beast",
+    "value": 99500,
+    "images": [
+      "https://nekos.best/api/v2/neko/e925065c-2efa-4da4-965a-59da914f50fc.png",
+      "https://nekos.best/api/v2/neko/5e8d5ee1-b296-4da6-ac1c-e984bf796068.png",
+      "https://nekos.best/api/v2/neko/b1d29e53-9cd4-4bb2-b591-edd7e8c866bc.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "dream_spirit": {
+    "id": "dream_spirit",
+    "name": "Dream Spirit",
+    "serie": "Dream Spirit",
+    "value": 100500,
+    "images": [
+      "https://nekos.best/api/v2/neko/09a76ad9-879e-49b7-9b19-fadb857f652b.png",
+      "https://nekos.best/api/v2/neko/cd289b8f-ade0-46f5-a126-e1cd1a8ab520.png",
+      "https://nekos.best/api/v2/neko/287c4b70-ccdb-453c-b924-c0f2c2d0f97f.png"
+    ],
+    "videos": [],
+    "owner": "164905772658915@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "kirby": {
+    "id": "kirby",
+    "name": "Kirby",
+    "serie": "Kirby",
+    "value": 101500,
+    "images": [
+      "https://nekos.best/api/v2/neko/971645dd-fafb-432c-9c5a-f063f9607696.png",
+      "https://nekos.best/api/v2/neko/13a957c9-c032-43c1-ace4-0a9e6634e123.png",
+      "https://nekos.best/api/v2/neko/25fa2ca9-20dc-429c-8c11-34a9cac33cde.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "meta_knight": {
+    "id": "meta_knight",
+    "name": "Meta Knight",
+    "serie": "Meta Knight",
+    "value": 102500,
+    "images": [
+      "https://nekos.best/api/v2/neko/4eb56953-ee16-44b9-9971-8d62f387397e.png",
+      "https://nekos.best/api/v2/neko/df64e746-4597-49bc-b97d-da4c0f0c8d09.png",
+      "https://nekos.best/api/v2/neko/69cf48ad-67f9-4cf4-851d-7a3769eff9d4.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "king_dedede": {
+    "id": "king_dedede",
+    "name": "King Dedede",
+    "serie": "King Dedede",
+    "value": 103500,
+    "images": [
+      "https://nekos.best/api/v2/neko/4b0f5738-00a7-4f03-bbd8-a11abdc26c0a.png",
+      "https://nekos.best/api/v2/neko/0a8b1b2a-26dd-4936-802b-49988b6ad2c3.png",
+      "https://nekos.best/api/v2/neko/5d9e8274-ebe5-4c24-94b4-98268b7c35ee.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "bandana_waddle_dee": {
+    "id": "bandana_waddle_dee",
+    "name": "Bandana Waddle Dee",
+    "serie": "Bandana Waddle Dee",
+    "value": 104500,
+    "images": [
+      "https://nekos.best/api/v2/neko/845ec64d-cc44-412a-978e-757494f43a2c.png",
+      "https://nekos.best/api/v2/neko/da5913a8-b3d2-4a17-9f5b-aed933569988.png",
+      "https://nekos.best/api/v2/neko/9b326889-c428-4097-8d94-a23ce31d255d.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "magolor": {
+    "id": "magolor",
+    "name": "Magolor",
+    "serie": "Magolor",
+    "value": 105500,
+    "images": [
+      "https://nekos.best/api/v2/neko/27a1ca1d-59d6-4117-b94a-e516e27e3d5b.png",
+      "https://nekos.best/api/v2/neko/29953a66-c55a-4c4d-88d8-aacc0d9bebb3.png",
+      "https://nekos.best/api/v2/neko/29f3c739-357f-4e39-aca5-e737f1b30ee8.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "galacta_knight": {
+    "id": "galacta_knight",
+    "name": "Galacta Knight",
+    "serie": "Galacta Knight",
+    "value": 106500,
+    "images": [
+      "https://nekos.best/api/v2/neko/905a7be7-58e9-47f8-bebd-165e52ccf5aa.png",
+      "https://nekos.best/api/v2/neko/b105ab7c-1617-45dc-a23a-4a139b34851e.png",
+      "https://nekos.best/api/v2/neko/830b153a-a0c0-47ef-8f0b-31c91eae9df6.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "susie": {
+    "id": "susie",
+    "name": "Susie",
+    "serie": "Susie",
+    "value": 107500,
+    "images": [
+      "https://nekos.best/api/v2/neko/2185c54e-46f0-4028-a854-f37ec81dba3a.png",
+      "https://nekos.best/api/v2/neko/539a4943-14ad-4276-a48c-78d1f9848608.png",
+      "https://nekos.best/api/v2/neko/dcd1be5b-8830-4e16-a79f-fc7843aa1c54.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "marx": {
+    "id": "marx",
+    "name": "Marx",
+    "serie": "Marx",
+    "value": 108500,
+    "images": [
+      "https://nekos.best/api/v2/neko/bf5e4463-1458-445d-8118-9d0064dce802.png",
+      "https://nekos.best/api/v2/neko/fad2db86-e22e-4151-bd4f-2323d3999e87.png",
+      "https://nekos.best/api/v2/neko/aabb8e4e-a4d1-4459-b113-466cb2d5bfed.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "adeleine": {
+    "id": "adeleine",
+    "name": "Adeleine",
+    "serie": "Adeleine",
+    "value": 109500,
+    "images": [
+      "https://nekos.best/api/v2/neko/f9e0c734-94d2-47b9-a71f-33ff8c741a6e.png",
+      "https://nekos.best/api/v2/neko/18f4e96b-cd24-46ce-937e-4df5f3e9e3f1.png",
+      "https://nekos.best/api/v2/neko/719f1c45-d37b-4529-a904-fca8c381d902.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "ribbon": {
+    "id": "ribbon",
+    "name": "Ribbon",
+    "serie": "Ribbon",
+    "value": 110500,
+    "images": [
+      "https://nekos.best/api/v2/neko/4cec6234-35db-492a-93c5-a6f424eb34d5.png",
+      "https://nekos.best/api/v2/neko/85ac0a7b-01fa-4138-b702-50545aee56c8.png",
+      "https://nekos.best/api/v2/neko/15e37003-5351-4b93-bf87-cf08bf25c670.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "gooey": {
+    "id": "gooey",
+    "name": "Gooey",
+    "serie": "Gooey",
+    "value": 111500,
+    "images": [
+      "https://nekos.best/api/v2/neko/3908af6f-51a9-497d-aa51-6e7e8b40c8c4.png",
+      "https://nekos.best/api/v2/neko/be155872-9217-4411-ae5d-5504361ee758.png",
+      "https://nekos.best/api/v2/neko/33a4d9b3-0fdc-4697-a622-25301aef9ea8.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "taranza": {
+    "id": "taranza",
+    "name": "Taranza",
+    "serie": "Taranza",
+    "value": 112500,
+    "images": [
+      "https://nekos.best/api/v2/neko/d5c12774-05b5-4303-9ac2-80a773559998.png",
+      "https://nekos.best/api/v2/neko/68e2040e-452a-4545-96fb-01a6d8a77782.png",
+      "https://nekos.best/api/v2/neko/16595605-98fc-4736-aa16-ac787e8373b4.png"
+    ],
+    "videos": [],
+    "owner": "255520992673847@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "morpho_knight": {
+    "id": "morpho_knight",
+    "name": "Morpho Knight",
+    "serie": "Morpho Knight",
+    "value": 113500,
+    "images": [
+      "https://nekos.best/api/v2/neko/4b703025-2548-4b8a-8acd-a8684ea8a016.png",
+      "https://nekos.best/api/v2/neko/224e47bc-181d-4a17-ad0b-6556bfeabc29.png",
+      "https://nekos.best/api/v2/neko/f76f7415-7e41-4d47-8d8d-9cde489125fc.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "whispy_woods": {
+    "id": "whispy_woods",
+    "name": "Whispy Woods",
+    "serie": "Whispy Woods",
+    "value": 114500,
+    "images": [
+      "https://nekos.best/api/v2/neko/f44f42f1-44ce-4962-87a7-7f4552c6c3e3.png",
+      "https://nekos.best/api/v2/neko/e7db6c74-b0ad-4424-ab02-11f828721b90.png",
+      "https://nekos.best/api/v2/neko/a5dfbaa9-b8ae-48f1-9333-d91489da4aa2.png"
+    ],
+    "videos": [],
+    "owner": "188914757292264@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "zero_two": {
+    "id": "zero_two",
+    "name": "Zero Two",
+    "serie": "Zero Two",
+    "value": 115500,
+    "images": [
+      "https://nekos.best/api/v2/neko/47732e78-5dc0-424a-9348-eaaa829df7ac.png",
+      "https://nekos.best/api/v2/neko/4f7d4a8a-3d91-40c7-8361-762e560287f5.png",
+      "https://nekos.best/api/v2/neko/f719b2a3-0b60-4970-ad6c-4d39f8b35f9a.png"
+    ],
+    "videos": [],
+    "owner": "164905772658915@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "nightmare": {
+    "id": "nightmare",
+    "name": "Nightmare",
+    "serie": "Nightmare",
+    "value": 116500,
+    "images": [
+      "https://nekos.best/api/v2/neko/e242e7f1-407b-4ec7-a983-d1d3fd14526a.png",
+      "https://nekos.best/api/v2/neko/2293218a-f665-407c-83c4-28476761fde0.png",
+      "https://nekos.best/api/v2/neko/287c4b70-ccdb-453c-b924-c0f2c2d0f97f.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "sectonia": {
+    "id": "sectonia",
+    "name": "Sectonia",
+    "serie": "Sectonia",
+    "value": 117500,
+    "images": [
+      "https://nekos.best/api/v2/neko/61d66b5b-de33-4b45-8b7f-b987d2db07fe.png",
+      "https://nekos.best/api/v2/neko/54a54e8f-8cfd-45fa-a49a-04d726702b0c.png",
+      "https://nekos.best/api/v2/neko/d824f79b-2dfb-4430-a1e1-50e23d850c3e.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "drawcia": {
+    "id": "drawcia",
+    "name": "Drawcia",
+    "serie": "Drawcia",
+    "value": 118500,
+    "images": [
+      "https://nekos.best/api/v2/neko/bec815c2-4fa9-4e32-b207-0e7793bd67a5.png",
+      "https://nekos.best/api/v2/neko/904aa612-a615-42a5-aba7-4e95d823b034.png",
+      "https://nekos.best/api/v2/neko/693879a8-ad5f-4c48-a726-78e0504c3a8b.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "dark_meta_knight": {
+    "id": "dark_meta_knight",
+    "name": "Dark Meta Knight",
+    "serie": "Dark Meta Knight",
+    "value": 119500,
+    "images": [
+      "https://nekos.best/api/v2/neko/cd329545-2e61-43d7-936d-76cc24b235a3.png",
+      "https://nekos.best/api/v2/neko/bc36813f-5b1c-4632-b088-09bd0fde534e.png",
+      "https://nekos.best/api/v2/neko/e7d8fafc-d665-4e20-8d21-a5f60a64a2bd.png"
+    ],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "kracko": {
+    "id": "kracko",
+    "name": "Kracko",
+    "serie": "Kracko",
+    "value": 120500,
+    "images": [
+      "https://nekos.best/api/v2/neko/8807c738-65e9-4d6e-87b6-f270106f3e14.png",
+      "https://nekos.best/api/v2/neko/ef615941-9f91-4ad5-beaf-6869b21ad920.png",
+      "https://nekos.best/api/v2/neko/947e2af7-642a-4e5a-99bc-70d66c006e49.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "daroach": {
+    "id": "daroach",
+    "name": "Daroach",
+    "serie": "Daroach",
+    "value": 121500,
+    "images": [
+      "https://nekos.best/api/v2/neko/5a4757a7-9cb1-48bc-b455-e48a3c8e496c.png",
+      "https://nekos.best/api/v2/neko/4b419706-2035-40da-bd98-409d922fa133.png",
+      "https://nekos.best/api/v2/neko/935d0ce8-9a52-4cb6-b90a-ed349467a622.png"
+    ],
+    "videos": [],
+    "owner": "21234419036258@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "dark_daroach": {
+    "id": "dark_daroach",
+    "name": "Dark Daroach",
+    "serie": "Dark Daroach",
+    "value": 122500,
+    "images": [
+      "https://nekos.best/api/v2/neko/96cb53ff-bd68-4a67-8bba-e055f5b5bb3f.png",
+      "https://nekos.best/api/v2/neko/3b537fc1-f759-4499-870a-93ae9aaff9ea.png",
+      "https://nekos.best/api/v2/neko/3f49a294-9c3d-4e2d-8803-027b5dc5e6df.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "void_termina": {
+    "id": "void_termina",
+    "name": "Void Termina",
+    "serie": "Void Termina",
+    "value": 123500,
+    "images": [
+      "https://nekos.best/api/v2/neko/e39871e2-1ce3-4203-8a37-aad6d6d622e1.png",
+      "https://nekos.best/api/v2/neko/9cb71b6d-a947-4d0d-bbb9-64e4d95ea9f6.png",
+      "https://nekos.best/api/v2/neko/7fc63826-de31-49d3-bc58-6ea475a93d34.png"
+    ],
+    "videos": [],
+    "owner": "84104737476856@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "galacta_zero": {
+    "id": "galacta_zero",
+    "name": "Galacta Zero",
+    "serie": "Galacta Zero",
+    "value": 124500,
+    "images": [
+      "https://nekos.best/api/v2/neko/b1da0ddb-67c5-405d-b7d0-2238fa398f3d.png",
+      "https://nekos.best/api/v2/neko/1ac848e9-2b61-421a-b4dc-11e8cc8f7373.png",
+      "https://nekos.best/api/v2/neko/da2a6a68-8d41-4978-b1e8-e95563329c3d.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "shadow_kirby": {
+    "id": "shadow_kirby",
+    "name": "Shadow Kirby",
+    "serie": "Shadow Kirby",
+    "value": 125500,
+    "images": [
+      "https://nekos.best/api/v2/neko/26263910-3d4e-46a8-8911-34d8721ef519.png",
+      "https://nekos.best/api/v2/neko/95dd7228-fe34-4023-ad42-c2c2bfd25841.png",
+      "https://nekos.best/api/v2/neko/ad8a01e7-bec0-445b-b45e-fc5fdba645d9.png"
+    ],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "magolor_soul": {
+    "id": "magolor_soul",
+    "name": "Magolor Soul",
+    "serie": "Magolor Soul",
+    "value": 126500,
+    "images": [
+      "https://nekos.best/api/v2/neko/0f2c873c-7af5-4849-b7cd-809319202b98.png",
+      "https://nekos.best/api/v2/neko/f4487ac5-e954-416f-b6ea-bbb42c4d1900.png",
+      "https://nekos.best/api/v2/neko/daacae55-c63b-474b-98d6-2b5f64a44b1b.png"
+    ],
+    "videos": [],
+    "owner": "245775728672973@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "marx_soul": {
+    "id": "marx_soul",
+    "name": "Marx Soul",
+    "serie": "Marx Soul",
+    "value": 127500,
+    "images": [
+      "https://nekos.best/api/v2/neko/74a88d01-9c2b-4fe9-bf17-3c013129b5e1.png",
+      "https://nekos.best/api/v2/neko/3a5b3f3c-afd3-487e-918c-5032fa4bb390.png",
+      "https://nekos.best/api/v2/neko/4b26ee64-8ba1-45ae-8811-cacb3cde5ad8.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "landia": {
+    "id": "landia",
+    "name": "Landia",
+    "serie": "Landia",
+    "value": 128500,
+    "images": [
+      "https://nekos.best/api/v2/neko/3c010bd5-a535-4af2-9379-25d05b758925.png",
+      "https://nekos.best/api/v2/neko/648a358b-12dc-4b8f-bfc5-8a62baa6a406.png",
+      "https://nekos.best/api/v2/neko/224e47bc-181d-4a17-ad0b-6556bfeabc29.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "tuff": {
+    "id": "tuff",
+    "name": "Tuff",
+    "serie": "Tuff",
+    "value": 129500,
+    "images": [
+      "https://nekos.best/api/v2/neko/07b98ff6-7d49-44d6-abb2-e423790ba493.png",
+      "https://nekos.best/api/v2/neko/70c20092-dd82-4130-9f05-548aacbe5ac8.png",
+      "https://nekos.best/api/v2/neko/ff153284-8c74-4183-b3ff-08206938ca6f.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "tiff": {
+    "id": "tiff",
+    "name": "Tiff",
+    "serie": "Tiff",
+    "value": 130500,
+    "images": [
+      "https://nekos.best/api/v2/neko/014bd398-7a86-43b0-979c-38963f7cfc02.png",
+      "https://nekos.best/api/v2/neko/50a2303d-5d88-4cf6-8b0d-f53d4c233bed.png",
+      "https://nekos.best/api/v2/neko/66c5fe28-cddd-4b0b-a761-41bc15bbdc31.png"
+    ],
+    "videos": [],
+    "owner": "164905772658915@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "chuchu": {
+    "id": "chuchu",
+    "name": "Chuchu",
+    "serie": "Chuchu",
+    "value": 131500,
+    "images": [
+      "https://nekos.best/api/v2/neko/453abc64-0540-4e1a-83f6-711c418e5218.png",
+      "https://nekos.best/api/v2/neko/96d25970-29c5-4105-b5dd-d3722679092a.png",
+      "https://nekos.best/api/v2/neko/61ff7cee-9be0-4a36-8aa0-d4fc5badb8fd.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "adeleine_painter": {
+    "id": "adeleine_painter",
+    "name": "Adeleine Painter",
+    "serie": "Adeleine Painter",
+    "value": 132500,
+    "images": [
+      "https://nekos.best/api/v2/neko/f0f1af20-53fe-4eba-b07e-18a343a6b03a.png",
+      "https://nekos.best/api/v2/neko/be1c7f88-7219-456d-ab21-bfcf7d9ed6f0.png",
+      "https://nekos.best/api/v2/neko/af62f2c2-840a-44dc-a531-70d149d37052.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "goku": {
+    "id": "goku",
+    "name": "Goku",
+    "serie": "Goku",
+    "value": 133500,
+    "images": [
+      "https://nekos.best/api/v2/neko/f6a2c5bc-b787-40dc-83c7-31195dd42e6f.png",
+      "https://nekos.best/api/v2/neko/39222a50-2793-47fb-a35f-129073ebfe8c.png",
+      "https://nekos.best/api/v2/neko/c9317a4d-7174-4993-88d3-8527f4a548f4.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "vegeta": {
+    "id": "vegeta",
+    "name": "Vegeta",
+    "serie": "Vegeta",
+    "value": 134500,
+    "images": [
+      "https://nekos.best/api/v2/neko/1e1a611d-d9b1-4a14-a8cc-efd6b4fa2c8b.png",
+      "https://nekos.best/api/v2/neko/6159a439-94e1-465d-8e3c-80de7d8fee74.png",
+      "https://nekos.best/api/v2/neko/35ccb177-efe4-49dd-bfef-dec7809d9df2.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "trunks": {
+    "id": "trunks",
+    "name": "Trunks",
+    "serie": "Trunks",
+    "value": 135500,
+    "images": [
+      "https://nekos.best/api/v2/neko/1b0d0f05-f7b5-4ba5-959c-db62e7ce9db8.png",
+      "https://nekos.best/api/v2/neko/7b225919-2060-41f7-95cc-069ae6e6a91d.png",
+      "https://nekos.best/api/v2/neko/bdc1489a-9a13-4d1e-8603-8f9ef2d0ac5c.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "broly": {
+    "id": "broly",
+    "name": "Broly",
+    "serie": "Broly",
+    "value": 136500,
+    "images": [
+      "https://nekos.best/api/v2/neko/c9be4fb2-0a3b-4230-b368-7d9abf8f28d9.png",
+      "https://nekos.best/api/v2/neko/3f0c2026-5470-401b-b032-a24f7785a0f3.png",
+      "https://nekos.best/api/v2/neko/d5c12774-05b5-4303-9ac2-80a773559998.png"
+    ],
+    "videos": [],
+    "owner": "36889708998908@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "zoro": {
+    "id": "zoro",
+    "name": "Zoro",
+    "serie": "Zoro",
+    "value": 137500,
+    "images": [
+      "https://nekos.best/api/v2/neko/f891d91a-dee6-4a58-8cc1-3826d157063a.png",
+      "https://nekos.best/api/v2/neko/b5fdbcd7-e670-4597-a6ee-e3a6a90765d9.png",
+      "https://nekos.best/api/v2/neko/72887532-3df9-45c0-a639-39b96bcdc92e.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "sanji": {
+    "id": "sanji",
+    "name": "Sanji",
+    "serie": "Sanji",
+    "value": 138500,
+    "images": [
+      "https://nekos.best/api/v2/neko/78ce020e-2a8e-45fc-9eff-e5f51ce360a8.png",
+      "https://nekos.best/api/v2/neko/407f4272-8653-4d64-a222-6ecce753aaee.png",
+      "https://nekos.best/api/v2/neko/ae31c375-cb11-42e8-bb94-cca44050f6d4.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "luffy": {
+    "id": "luffy",
+    "name": "Luffy",
+    "serie": "Luffy",
+    "value": 139500,
+    "images": [
+      "https://nekos.best/api/v2/neko/9b326889-c428-4097-8d94-a23ce31d255d.png",
+      "https://nekos.best/api/v2/neko/4ac7d5a0-9546-4a37-8d5c-750d83d74a61.png",
+      "https://nekos.best/api/v2/neko/a58ac35a-232c-4150-b9b7-e6bdfae5420b.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "law": {
+    "id": "law",
+    "name": "Law",
+    "serie": "Law",
+    "value": 140500,
+    "images": [
+      "https://nekos.best/api/v2/neko/db46a98c-74a5-426a-8bde-978ee5a88a17.png",
+      "https://nekos.best/api/v2/neko/948120dc-0398-4c33-aa75-cdde594f59dc.png",
+      "https://nekos.best/api/v2/neko/2a8d652d-a9df-4f27-9134-8ab2abcf1894.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "ace": {
+    "id": "ace",
+    "name": "Ace",
+    "serie": "Ace",
+    "value": 141500,
+    "images": [
+      "https://nekos.best/api/v2/neko/886c22f7-9f40-4b32-9c83-1fca924ee539.png",
+      "https://nekos.best/api/v2/neko/3ff1b426-cadd-4850-9d52-026ed5a8579b.png",
+      "https://nekos.best/api/v2/neko/02ed74ce-8c13-4513-beaa-ee8e9c100f6d.png"
+    ],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "mihawk": {
+    "id": "mihawk",
+    "name": "Mihawk",
+    "serie": "Mihawk",
+    "value": 142500,
+    "images": [
+      "https://nekos.best/api/v2/neko/9e444995-666b-49c2-8e73-26dd158b5656.png",
+      "https://nekos.best/api/v2/neko/83260f59-de1c-438f-98ef-95d192aa84f5.png",
+      "https://nekos.best/api/v2/neko/1d2ee0ed-b162-46d0-bdd7-d1a1c45d156b.png"
+    ],
+    "videos": [],
+    "owner": "36889708998908@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "tanjiro": {
+    "id": "tanjiro",
+    "name": "Tanjiro",
+    "serie": "Tanjiro",
+    "value": 143500,
+    "images": [
+      "https://nekos.best/api/v2/neko/a19705c6-48b9-4837-90b6-1bdd4db62f80.png",
+      "https://nekos.best/api/v2/neko/b0bbbafd-4662-4320-8410-35c537028c29.png",
+      "https://nekos.best/api/v2/neko/8423ef30-0ffb-4f17-8677-2d8c8a7767b3.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "inosuke": {
+    "id": "inosuke",
+    "name": "Inosuke",
+    "serie": "Inosuke",
+    "value": 144500,
+    "images": [
+      "https://nekos.best/api/v2/neko/bcf616a8-7d62-41bb-b4e3-faf249aa4097.png",
+      "https://nekos.best/api/v2/neko/1ada106b-3978-4ef0-99c7-7ef65338240b.png",
+      "https://nekos.best/api/v2/neko/5ffdc406-91e5-4b58-8a2a-bc7e7a598be0.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "rengoku": {
+    "id": "rengoku",
+    "name": "Rengoku",
+    "serie": "Rengoku",
+    "value": 145500,
+    "images": [
+      "https://nekos.best/api/v2/neko/9e367487-c755-4267-84c9-3697e6467f0b.png",
+      "https://nekos.best/api/v2/neko/7cd3f884-c1cb-4462-919b-f5f565411d18.png",
+      "https://nekos.best/api/v2/neko/cfe2ac60-bd62-4622-912a-e7aa019a0696.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "zenitsu": {
+    "id": "zenitsu",
+    "name": "Zenitsu",
+    "serie": "Zenitsu",
+    "value": 146500,
+    "images": [
+      "https://nekos.best/api/v2/neko/c603e31c-355b-477f-8328-0d9c3eb71073.png",
+      "https://nekos.best/api/v2/neko/26efe7f4-f7ac-496f-9b5e-260dd42b70b9.png",
+      "https://nekos.best/api/v2/neko/47172c33-6ff0-45b0-a8e5-56b5a1eebb85.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "obani": {
+    "id": "obani",
+    "name": "Obani",
+    "serie": "Obani",
+    "value": 147500,
+    "images": [
+      "https://nekos.best/api/v2/neko/35bf4b15-c078-48ae-90b4-b1fd56dda73b.png",
+      "https://nekos.best/api/v2/neko/e3bb71ee-2ba9-4e11-8af0-17844f20ac7d.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "itachi": {
+    "id": "itachi",
+    "name": "Itachi",
+    "serie": "Itachi",
+    "value": 148500,
+    "images": [
+      "https://nekos.best/api/v2/neko/791cf056-e4aa-4110-8e41-a92b4e81f6fc.png",
+      "https://nekos.best/api/v2/neko/0b4915dc-241e-4889-8d43-93f01c63e083.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "madara": {
+    "id": "madara",
+    "name": "Madara",
+    "serie": "Madara",
+    "value": 149500,
+    "images": [
+      "https://nekos.best/api/v2/neko/744ff714-00aa-459c-82c0-964c296e47e6.png",
+      "https://nekos.best/api/v2/neko/a1d97580-ffec-45a2-9e2a-97200fa71c4a.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "sasuke": {
+    "id": "sasuke",
+    "name": "Sasuke",
+    "serie": "Sasuke",
+    "value": 150500,
+    "images": [
+      "https://nekos.best/api/v2/neko/81e05a5f-31dd-4005-9d4c-8d75f7280704.png",
+      "https://nekos.best/api/v2/neko/1b0de689-9060-4400-86dc-73200105a6ca.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "kakashi": {
+    "id": "kakashi",
+    "name": "Kakashi",
+    "serie": "Kakashi",
+    "value": 151500,
+    "images": [
+      "https://nekos.best/api/v2/neko/e5c72186-054a-404e-a016-2695efcfdacf.png",
+      "https://nekos.best/api/v2/neko/07996548-24a8-44b5-9200-2a0a74309eb3.png"
+    ],
+    "videos": [],
+    "owner": "36889708998908@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "naruto": {
+    "id": "naruto",
+    "name": "Naruto",
+    "serie": "Naruto",
+    "value": 152500,
+    "images": [
+      "https://nekos.best/api/v2/neko/478d294c-dfef-450a-abb7-a1c1d30c6ca2.png",
+      "https://nekos.best/api/v2/neko/7921f9c6-b41a-47b3-88c0-c9fed71f3c02.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "boruto": {
+    "id": "boruto",
+    "name": "Boruto",
+    "serie": "Boruto",
+    "value": 153500,
+    "images": [
+      "https://nekos.best/api/v2/neko/df1e883b-582f-4fb3-b961-949f6845ddc6.png",
+      "https://nekos.best/api/v2/neko/c70a44e3-3941-42ec-9632-5612f2921b87.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "gaara": {
+    "id": "gaara",
+    "name": "Gaara",
+    "serie": "Gaara",
+    "value": 154500,
+    "images": [
+      "https://nekos.best/api/v2/neko/d6d80752-84ee-4506-b317-d4a4b4f18e5e.png",
+      "https://nekos.best/api/v2/neko/267466eb-520f-4fad-ac1f-889f03f3fd73.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "jiraiya": {
+    "id": "jiraiya",
+    "name": "Jiraiya",
+    "serie": "Jiraiya",
+    "value": 155500,
+    "images": [
+      "https://nekos.best/api/v2/neko/81e05a5f-31dd-4005-9d4c-8d75f7280704.png",
+      "https://nekos.best/api/v2/neko/53794e7c-77e4-4d19-bdb7-59c2fd4dc0f7.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "pain": {
+    "id": "pain",
+    "name": "Pain",
+    "serie": "Pain",
+    "value": 156500,
+    "images": [
+      "https://nekos.best/api/v2/neko/bc461f75-147b-446b-ad49-7edfb82468d2.png",
+      "https://nekos.best/api/v2/neko/eed8d407-d25f-4a69-bf95-17419e477920.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "eren": {
+    "id": "eren",
+    "name": "Eren",
+    "serie": "Eren",
+    "value": 157500,
+    "images": [
+      "https://nekos.best/api/v2/neko/5616c8e2-66bd-498e-a784-280c19a26d45.png",
+      "https://nekos.best/api/v2/neko/9e367487-c755-4267-84c9-3697e6467f0b.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "levi": {
+    "id": "levi",
+    "name": "Levi",
+    "serie": "Levi",
+    "value": 158500,
+    "images": [
+      "https://nekos.best/api/v2/neko/8a832030-c85d-4db3-949b-a12fd2a83bd1.png",
+      "https://nekos.best/api/v2/neko/6f3e6ed5-99d4-4d2f-9138-1cce18c8e64e.png"
+    ],
+    "videos": [],
+    "owner": "255520992673847@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "armin": {
+    "id": "armin",
+    "name": "Armin",
+    "serie": "Armin",
+    "value": 159500,
+    "images": [
+      "https://nekos.best/api/v2/neko/1dcbaba2-8baa-4e23-83e7-d10b1f1f9436.png",
+      "https://nekos.best/api/v2/neko/aabb8e4e-a4d1-4459-b113-466cb2d5bfed.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "erwin": {
+    "id": "erwin",
+    "name": "Erwin",
+    "serie": "Erwin",
+    "value": 160500,
+    "images": [
+      "https://nekos.best/api/v2/neko/89ad8bee-9c90-4056-92e3-54a70ad5d761.png",
+      "https://nekos.best/api/v2/neko/54a54e8f-8cfd-45fa-a49a-04d726702b0c.png"
+    ],
+    "videos": [],
+    "owner": "36889708998908@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "reiner": {
+    "id": "reiner",
+    "name": "Reiner",
+    "serie": "Reiner",
+    "value": 161500,
+    "images": [
+      "https://nekos.best/api/v2/neko/eaa47f4e-6f39-465e-97fc-3f6c028af2ed.png",
+      "https://nekos.best/api/v2/neko/81ce7c27-1a1b-4be0-b836-00705767b3a2.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "mikasa": {
+    "id": "mikasa",
+    "name": "Mikasa",
+    "serie": "Mikasa",
+    "value": 162500,
+    "images": [
+      "https://nekos.best/api/v2/neko/2bdaad7f-e201-40bb-a514-6bfefc9ae342.png",
+      "https://nekos.best/api/v2/neko/f6d765fb-0142-433c-9550-ff6d890346d3.png"
+    ],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "gojo": {
+    "id": "gojo",
+    "name": "Gojo",
+    "serie": "Gojo",
+    "value": 163500,
+    "images": [
+      "https://nekos.best/api/v2/neko/35d87938-a497-4b28-a1c3-c48625a0a365.png"
+    ],
+    "videos": [],
+    "owner": "19207311880214@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "sukuna": {
+    "id": "sukuna",
+    "name": "Sukuna",
+    "serie": "Sukuna",
+    "value": 164500,
+    "images": [
+      "https://nekos.best/api/v2/neko/b76c9aed-e8e6-43ad-8b6c-be9a36ca2a0b.png"
+    ],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "geto": {
+    "id": "geto",
+    "name": "Geto",
+    "serie": "Geto",
+    "value": 165500,
+    "images": [
+      "https://nekos.best/api/v2/neko/6f3e6ed5-99d4-4d2f-9138-1cce18c8e64e.png"
+    ],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "megumi": {
+    "id": "megumi",
+    "name": "Megumi",
+    "serie": "Megumi",
+    "value": 166500,
+    "images": [
+      "https://nekos.best/api/v2/neko/ba9717f4-2cd1-4a70-90cb-cc8d0cf75a08.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "toji": {
+    "id": "toji",
+    "name": "Toji",
+    "serie": "Toji",
+    "value": 167500,
+    "images": [
+      "https://nekos.best/api/v2/neko/a1e8b88d-75aa-4256-954e-30fb50eb08bc.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "yuta": {
+    "id": "yuta",
+    "name": "Yuta",
+    "serie": "Yuta",
+    "value": 168500,
+    "images": [
+      "https://nekos.best/api/v2/neko/fb01f7a0-f8b6-4128-889b-0a2970d2a484.png"
+    ],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "kenjaku": {
+    "id": "kenjaku",
+    "name": "Kenjaku",
+    "serie": "Kenjaku",
+    "value": 169500,
+    "images": [
+      "https://nekos.best/api/v2/neko/b261b886-39ed-4c03-88c9-b0d2d5710c72.png"
+    ],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "ichigo": {
+    "id": "ichigo",
+    "name": "Ichigo",
+    "serie": "Ichigo",
+    "value": 170500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "byakuya": {
+    "id": "byakuya",
+    "name": "Byakuya",
+    "serie": "Byakuya",
+    "value": 171500,
+    "images": [],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "ulquiorra": {
+    "id": "ulquiorra",
+    "name": "Ulquiorra",
+    "serie": "Ulquiorra",
+    "value": 172500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "aizen": {
+    "id": "aizen",
+    "name": "Aizen",
+    "serie": "Aizen",
+    "value": 173500,
+    "images": [],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "rukia": {
+    "id": "rukia",
+    "name": "Rukia",
+    "serie": "Rukia",
+    "value": 174500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "grimjow": {
+    "id": "grimjow",
+    "name": "Grimjow",
+    "serie": "Grimjow",
+    "value": 175500,
+    "images": [],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "yoruichi": {
+    "id": "yoruichi",
+    "name": "Yoruichi",
+    "serie": "Yoruichi",
+    "value": 176500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "izen": {
+    "id": "izen",
+    "name": "Izen",
+    "serie": "Izen",
+    "value": 177500,
+    "images": [],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "kazuma": {
+    "id": "kazuma",
+    "name": "Kazuma",
+    "serie": "Kazuma",
+    "value": 178500,
+    "images": [],
+    "videos": [],
+    "owner": "84104737476856@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "megumin": {
+    "id": "megumin",
+    "name": "Megumin",
+    "serie": "Megumin",
+    "value": 179500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "subaru": {
+    "id": "subaru",
+    "name": "Subaru",
+    "serie": "Subaru",
+    "value": 180500,
+    "images": [],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "rem": {
+    "id": "rem",
+    "name": "Rem",
+    "serie": "Rem",
+    "value": 181500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "ram": {
+    "id": "ram",
+    "name": "Ram",
+    "serie": "Ram",
+    "value": 182500,
+    "images": [],
+    "videos": [],
+    "owner": "36889708998908@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "asuna": {
+    "id": "asuna",
+    "name": "Asuna",
+    "serie": "Asuna",
+    "value": 183500,
+    "images": [],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "kirito": {
+    "id": "kirito",
+    "name": "Kirito",
+    "serie": "Kirito",
+    "value": 184500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "link": {
+    "id": "link",
+    "name": "Link",
+    "serie": "Link",
+    "value": 185500,
+    "images": [],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "zelda": {
+    "id": "zelda",
+    "name": "Zelda",
+    "serie": "Zelda",
+    "value": 186500,
+    "images": [],
+    "videos": [],
+    "owner": "84104737476856@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "ganondorf": {
+    "id": "ganondorf",
+    "name": "Ganondorf",
+    "serie": "Ganondorf",
+    "value": 187500,
+    "images": [],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "sephiroth": {
+    "id": "sephiroth",
+    "name": "Sephiroth",
+    "serie": "Sephiroth",
+    "value": 188500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "cloud_strife": {
+    "id": "cloud_strife",
+    "name": "Cloud Strife",
+    "serie": "Cloud Strife",
+    "value": 189500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "sora": {
+    "id": "sora",
+    "name": "Sora",
+    "serie": "Sora",
+    "value": 190500,
+    "images": [],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "roxas": {
+    "id": "roxas",
+    "name": "Roxas",
+    "serie": "Roxas",
+    "value": 191500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "terra": {
+    "id": "terra",
+    "name": "Terra",
+    "serie": "Terra",
+    "value": 192500,
+    "images": [],
+    "videos": [],
+    "owner": "36889708998908@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "riku": {
+    "id": "riku",
+    "name": "Riku",
+    "serie": "Riku",
+    "value": 193500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "noctis": {
+    "id": "noctis",
+    "name": "Noctis",
+    "serie": "Noctis",
+    "value": 194500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "ignis": {
+    "id": "ignis",
+    "name": "Ignis",
+    "serie": "Ignis",
+    "value": 195500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "gladio": {
+    "id": "gladio",
+    "name": "Gladio",
+    "serie": "Gladio",
+    "value": 196500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "light_yagami": {
+    "id": "light_yagami",
+    "name": "Light Yagami",
+    "serie": "Light Yagami",
+    "value": 197500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "l": {
+    "id": "l",
+    "name": "L",
+    "serie": "L",
+    "value": 198500,
+    "images": [],
+    "videos": [],
+    "owner": "188914757292264@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "giyu": {
+    "id": "giyu",
+    "name": "Giyu",
+    "serie": "Giyu",
+    "value": 199500,
+    "images": [],
+    "videos": [],
+    "owner": "84104737476856@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "muichiro": {
+    "id": "muichiro",
+    "name": "Muichiro",
+    "serie": "Muichiro",
+    "value": 200500,
+    "images": [],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "akaza": {
+    "id": "akaza",
+    "name": "Akaza",
+    "serie": "Akaza",
+    "value": 201500,
+    "images": [],
+    "videos": [],
+    "owner": "84104737476856@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "kokushibo": {
+    "id": "kokushibo",
+    "name": "Kokushibo",
+    "serie": "Kokushibo",
+    "value": 202500,
+    "images": [],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "shinobu": {
+    "id": "shinobu",
+    "name": "Shinobu",
+    "serie": "Shinobu",
+    "value": 203500,
+    "images": [],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "mitsuri": {
+    "id": "mitsuri",
+    "name": "Mitsuri",
+    "serie": "Mitsuri",
+    "value": 204500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "kanroji": {
+    "id": "kanroji",
+    "name": "Kanroji",
+    "serie": "Kanroji",
+    "value": 205500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "chibi": {
+    "id": "chibi",
+    "name": "Chibi",
+    "serie": "Chibi",
+    "value": 206500,
+    "images": [],
+    "videos": [],
+    "owner": "84104737476856@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "realistic": {
+    "id": "realistic",
+    "name": "Realistic",
+    "serie": "Realistic",
+    "value": 207500,
+    "images": [],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "manga_style": {
+    "id": "manga_style",
+    "name": "Manga Style",
+    "serie": "Manga Style",
+    "value": 208500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "painting": {
+    "id": "painting",
+    "name": "Painting",
+    "serie": "Painting",
+    "value": 209500,
+    "images": [],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "anime_style": {
+    "id": "anime_style",
+    "name": "Anime Style",
+    "serie": "Anime Style",
+    "value": 210500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "pixel": {
+    "id": "pixel",
+    "name": "Pixel",
+    "serie": "Pixel",
+    "value": 211500,
+    "images": [],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "watercolor": {
+    "id": "watercolor",
+    "name": "Watercolor",
+    "serie": "Watercolor",
+    "value": 212500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "3d_render": {
+    "id": "3d_render",
+    "name": "3d Render",
+    "serie": "3d Render",
+    "value": 213500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "sketch": {
+    "id": "sketch",
+    "name": "Sketch",
+    "serie": "Sketch",
+    "value": 214500,
+    "images": [],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "smile": {
+    "id": "smile",
+    "name": "Smile",
+    "serie": "Smile",
+    "value": 215500,
+    "images": [],
+    "videos": [],
+    "owner": "84104737476856@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "blush": {
+    "id": "blush",
+    "name": "Blush",
+    "serie": "Blush",
+    "value": 216500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "laugh": {
+    "id": "laugh",
+    "name": "Laugh",
+    "serie": "Laugh",
+    "value": 217500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "cry": {
+    "id": "cry",
+    "name": "Cry",
+    "serie": "Cry",
+    "value": 218500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "serious": {
+    "id": "serious",
+    "name": "Serious",
+    "serie": "Serious",
+    "value": 219500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "angry": {
+    "id": "angry",
+    "name": "Angry",
+    "serie": "Angry",
+    "value": 220500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "sad": {
+    "id": "sad",
+    "name": "Sad",
+    "serie": "Sad",
+    "value": 221500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "shy": {
+    "id": "shy",
+    "name": "Shy",
+    "serie": "Shy",
+    "value": 222500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "wink": {
+    "id": "wink",
+    "name": "Wink",
+    "serie": "Wink",
+    "value": 223500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "surprised": {
+    "id": "surprised",
+    "name": "Surprised",
+    "serie": "Surprised",
+    "value": 224500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "determined": {
+    "id": "determined",
+    "name": "Determined",
+    "serie": "Determined",
+    "value": 225500,
+    "images": [],
+    "videos": [],
+    "owner": "255520992673847@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "focused": {
+    "id": "focused",
+    "name": "Focused",
+    "serie": "Focused",
+    "value": 226500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "gentle": {
+    "id": "gentle",
+    "name": "Gentle",
+    "serie": "Gentle",
+    "value": 227500,
+    "images": [],
+    "videos": [],
+    "owner": "188914757292264@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "cool": {
+    "id": "cool",
+    "name": "Cool",
+    "serie": "Cool",
+    "value": 228500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "evil_grin": {
+    "id": "evil_grin",
+    "name": "Evil Grin",
+    "serie": "Evil Grin",
+    "value": 229500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "school": {
+    "id": "school",
+    "name": "School",
+    "serie": "School",
+    "value": 230500,
+    "images": [],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "uniform": {
+    "id": "uniform",
+    "name": "Uniform",
+    "serie": "Uniform",
+    "value": 231500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "kimono": {
+    "id": "kimono",
+    "name": "Kimono",
+    "serie": "Kimono",
+    "value": 232500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "bikini": {
+    "id": "bikini",
+    "name": "Bikini",
+    "serie": "Bikini",
+    "value": 233500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "armor": {
+    "id": "armor",
+    "name": "Armor",
+    "serie": "Armor",
+    "value": 234500,
+    "images": [],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "casual": {
+    "id": "casual",
+    "name": "Casual",
+    "serie": "Casual",
+    "value": 235500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "hoodie": {
+    "id": "hoodie",
+    "name": "Hoodie",
+    "serie": "Hoodie",
+    "value": 236500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "yukata": {
+    "id": "yukata",
+    "name": "Yukata",
+    "serie": "Yukata",
+    "value": 237500,
+    "images": [],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "jacket": {
+    "id": "jacket",
+    "name": "Jacket",
+    "serie": "Jacket",
+    "value": 238500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "coat": {
+    "id": "coat",
+    "name": "Coat",
+    "serie": "Coat",
+    "value": 239500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "pajamas": {
+    "id": "pajamas",
+    "name": "Pajamas",
+    "serie": "Pajamas",
+    "value": 240500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "dress": {
+    "id": "dress",
+    "name": "Dress",
+    "serie": "Dress",
+    "value": 241500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "suit": {
+    "id": "suit",
+    "name": "Suit",
+    "serie": "Suit",
+    "value": 242500,
+    "images": [],
+    "videos": [],
+    "owner": "186277160837180@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "battle_armor": {
+    "id": "battle_armor",
+    "name": "Battle Armor",
+    "serie": "Battle Armor",
+    "value": 243500,
+    "images": [],
+    "videos": [],
+    "owner": "84104737476856@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "cyberpunk": {
+    "id": "cyberpunk",
+    "name": "Cyberpunk",
+    "serie": "Cyberpunk",
+    "value": 244500,
+    "images": [],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "steampunk": {
+    "id": "steampunk",
+    "name": "Steampunk",
+    "serie": "Steampunk",
+    "value": 245500,
+    "images": [],
+    "videos": [],
+    "owner": "245775728672973@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "ancient": {
+    "id": "ancient",
+    "name": "Ancient",
+    "serie": "Ancient",
+    "value": 246500,
+    "images": [],
+    "videos": [],
+    "owner": "52373569429752@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "futuristic": {
+    "id": "futuristic",
+    "name": "Futuristic",
+    "serie": "Futuristic",
+    "value": 247500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "urban": {
+    "id": "urban",
+    "name": "Urban",
+    "serie": "Urban",
+    "value": 248500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "idol_stage": {
+    "id": "idol_stage",
+    "name": "Idol Stage",
+    "serie": "Idol Stage",
+    "value": 249500,
+    "images": [],
+    "videos": [],
+    "owner": "36889708998908@lid",
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "forest_theme": {
+    "id": "forest_theme",
+    "name": "Forest Theme",
+    "serie": "Forest Theme",
+    "value": 250500,
+    "images": [],
+    "videos": [],
+    "owner": "22608942776369@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "ice_theme": {
+    "id": "ice_theme",
+    "name": "Ice Theme",
+    "serie": "Ice Theme",
+    "value": 251500,
+    "images": [],
+    "videos": [],
+    "owner": "271472669016088@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "fire_theme": {
+    "id": "fire_theme",
+    "name": "Fire Theme",
+    "serie": "Fire Theme",
+    "value": 252500,
+    "images": [],
+    "videos": [],
+    "owner": "267160387633385@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "shadow_realm": {
+    "id": "shadow_realm",
+    "name": "Shadow Realm",
+    "serie": "Shadow Realm",
+    "value": 253500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "storm_witch": {
+    "id": "storm_witch",
+    "name": "Storm Witch",
+    "serie": "Storm Witch",
+    "value": 254500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "Mujer",
+    "genero": "Mujer"
+  },
+  "dream_miko": {
+    "id": "dream_miko",
+    "name": "Dream Miko",
+    "serie": "Dream Miko",
+    "value": 255500,
+    "images": [],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "moonlight_mage": {
+    "id": "moonlight_mage",
+    "name": "Moonlight Mage",
+    "serie": "Moonlight Mage",
+    "value": 256500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "sun_paladin": {
+    "id": "sun_paladin",
+    "name": "Sun Paladin",
+    "serie": "Sun Paladin",
+    "value": 257500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "arcane_scholar": {
+    "id": "arcane_scholar",
+    "name": "Arcane Scholar",
+    "serie": "Arcane Scholar",
+    "value": 258500,
+    "images": [],
+    "videos": [],
+    "owner": "36889708998908@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "flame_knight": {
+    "id": "flame_knight",
+    "name": "Flame Knight",
+    "serie": "Flame Knight",
+    "value": 259500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "Hombre",
+    "genero": "Hombre"
+  },
+  "misty_ninja": {
+    "id": "misty_ninja",
+    "name": "Misty Ninja",
+    "serie": "Misty Ninja",
+    "value": 260500,
+    "images": [],
+    "videos": [],
+    "owner": "49126490255596@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "rain_priestess": {
+    "id": "rain_priestess",
+    "name": "Rain Priestess",
+    "serie": "Rain Priestess",
+    "value": 261500,
+    "images": [],
+    "videos": [],
+    "owner": "31439210971146@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "desert_sorcerer": {
+    "id": "desert_sorcerer",
+    "name": "Desert Sorcerer",
+    "serie": "Desert Sorcerer",
+    "value": 262500,
+    "images": [],
+    "videos": [],
+    "owner": "19207311880214@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "snow_druid": {
+    "id": "snow_druid",
+    "name": "Snow Druid",
+    "serie": "Snow Druid",
+    "value": 263500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "holy_guardian": {
+    "id": "holy_guardian",
+    "name": "Holy Guardian",
+    "serie": "Holy Guardian",
+    "value": 264500,
+    "images": [],
+    "videos": [],
+    "owner": "21234419036258@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "dark_sorcerer": {
+    "id": "dark_sorcerer",
+    "name": "Dark Sorcerer",
+    "serie": "Dark Sorcerer",
+    "value": 265500,
+    "images": [],
+    "videos": [],
+    "owner": null,
+    "gender": "—",
+    "genero": "—"
+  },
+  "galaxy_mage": {
+    "id": "galaxy_mage",
+    "name": "Galaxy Mage",
+    "serie": "Galaxy Mage",
+    "value": 266500,
+    "images": [],
+    "videos": [],
+    "owner": "22608942776369@lid",
+    "gender": "—",
+    "genero": "—"
+  },
+  "starlight_priestess": {
+    "id": "starlight_priestess",
+    "name": "Starlight Priestess",
+    "serie": "Starlight Priestess",
+    "value": 267500,
+    "images": [],
+    "videos": [],
+    "owner": "84104737476856@lid",
+    "gender": "—",
+    "genero": "—"
+  }
+}

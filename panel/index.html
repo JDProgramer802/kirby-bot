@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kirby Dream — Panel</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            kirby: {
+              pink: '#ff77aa',
+              rose: '#ffc0d9',
+              night: '#0b0b10',
+              sky: '#8bd5ff',
+              mint: '#98f5e1',
+              gold: '#ffd166'
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    html, body { height: 100%; }
+  </style>
+</head>
+<body class="min-h-full bg-kirby-night text-slate-100">
+  <div id="app"></div>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "120363420927741125@g.us": {
+    "active": true,
+    "onlyAdmin": false,
+    "antilink": false,
+    "alerts": true,
+    "welcome": true,
+    "goodbye": true,
+    "welcomeMsg": "🌸 ¡Bienvenido/a a Dreamland!",
+    "goodbyeMsg": "💫 Adiós, ¡te extrañaremos! 🌸",
+    "warnLimit": 3,
+    "warns": {},
+    "modules": {
+      "economy": true,
+      "gacha": true
+    },
+    "primaryBot": ""
+  }
+}

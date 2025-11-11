@@ -1,0 +1,66 @@
+{
+  "kirby_cumpleanos": {
+    "id": "kirby_cumpleanos",
+    "name": "Kirby Cumpleaños",
+    "price": 100000,
+    "rarity": "⭐ Común",
+    "image": "https://www.movistargameclub.pe/wp-content/uploads/2024/04/Kirby-cumpleanos-1.png",
+    "description": "¡Fiesta en Dreamland! Kirby trae pastelitos y globos para celebrar contigo 🎉"
+  },
+  "kirby_artistico": {
+    "id": "kirby_artistico",
+    "name": "Kirby Artístico",
+    "price": 120000,
+    "rarity": "⭐ Común",
+    "image": "https://cdn.mos.cms.futurecdn.net/E3BvgsNKbdUidsLPuyeaWR.jpg",
+    "description": "Con pinceles y colores, Kirby transforma el mundo en un lienzo de estrellas 🌈"
+  },
+  "kirby_samurai": {
+    "id": "kirby_samurai",
+    "name": "Kirby Samurai",
+    "price": 150000,
+    "rarity": "🌟 Raro",
+    "image": "https://preview.redd.it/samurai-kirby-appears-anime-v0-mw4wkpzqsqkb1.png?width=640&crop=smart&auto=webp&s=093159f91ff1582d44b834bcf408612defeddc1d",
+    "description": "Honor y espada en mano: Kirby protege Dreamland con valentía y ternura ⚔️"
+  },
+  "kirby_ninja": {
+    "id": "kirby_ninja",
+    "name": "Kirby Ninja",
+    "price": 160000,
+    "rarity": "🌟 Raro",
+    "image": "https://static.wikia.nocookie.net/kirby/images/0/0c/KRtDLD_Ninja.png/revision/latest/scale-to-width-down/1200?cb=20230116223532",
+    "description": "Silencioso, ágil… y adorable. Kirby ninja se mueve entre las sombras para ayudarte 🥷"
+  },
+  "kirby_dibujo": {
+    "id": "kirby_dibujo",
+    "name": "Kirby Dibujo",
+    "price": 110000,
+    "rarity": "⭐ Común",
+    "image": "https://helloartsy.com/wp-content/uploads/video-games/how-to-draw-kirby/how-to-draw-kirby.jpg",
+    "description": "El arte comienza con Kirby: aprende a dibujar o deja que Kirby te inspire 🎨"
+  },
+  "kirby_fantasia": {
+    "id": "kirby_fantasia",
+    "name": "Kirby Fantasía",
+    "price": 130000,
+    "rarity": "⭐ Común",
+    "image": "https://i.pinimg.com/736x/ff/25/80/ff258017fbf22cbbac0e365be06af0f7.jpg",
+    "description": "Sombrero de mago y varita en mano: Kirby explora mundos mágicos ✨"
+  },
+  "kirby_viajero": {
+    "id": "kirby_viajero",
+    "name": "Kirby Viajero",
+    "price": 140000,
+    "rarity": "🌟 Raro",
+    "image": "https://i.pinimg.com/736x/02/ca/a9/02caa9a95e433ea55d2844a0254a78b7.jpg",
+    "description": "Equipaje listo y estrellas en el cielo: Kirby recorre Dreamland sin parar 🌍"
+  },
+  "kirby_estrella": {
+    "id": "kirby_estrella",
+    "name": "Kirby Estrella",
+    "price": 170000,
+    "rarity": "💎 Épico",
+    "image": "https://i.pinimg.com/1200x/fb/ab/5d/fbab5de79022ab20893776381be63699.jpg",
+    "description": "Brilla con luz propia: Kirby estrella ilumina tu camino en Dreamland ⭐"
+  }
+}

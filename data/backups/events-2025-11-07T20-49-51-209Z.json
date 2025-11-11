@@ -1,0 +1,14 @@
+{
+  "active": {
+    "id": "navidad_2025",
+    "name": "Temporada Navideña Dreamland",
+    "start": "2025-12-01",
+    "end": "2026-01-06",
+    "currency": "🎄 CandyStars",
+    "dailyReward": { "min": 50, "max": 100 },
+    "shop": [
+      { "id": "kirby_navidad_pet", "name": "Kirby Navidad (Mascota)", "price": 800, "type": "pet", "ref": "kirby_navidad" },
+      { "id": "sticker_navidad", "name": "Sticker Navideño", "price": 200, "type": "sticker", "ref": "xmas_star" }
+    ]
+  }
+}

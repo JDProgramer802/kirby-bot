@@ -1,0 +1,145 @@
+{
+  "120363421911015576@g.us": {
+    "active": true,
+    "onlyAdmin": false,
+    "antilink": false,
+    "alerts": true,
+    "welcome": true,
+    "goodbye": true,
+    "welcomeMsg": "🌸 ¡Bienvenido/a a Dreamland!",
+    "goodbyeMsg": "💫 Adiós, ¡te extrañaremos! 🌸",
+    "warnLimit": 3,
+    "warns": {},
+    "modules": {
+      "economy": true,
+      "gacha": true
+    },
+    "primaryBot": ""
+  },
+  "120363382291314760@g.us": {
+    "active": true,
+    "onlyAdmin": false,
+    "antilink": false,
+    "alerts": true,
+    "welcome": false,
+    "goodbye": true,
+    "welcomeMsg": "🌸 ¡Bienvenido/a a Dreamland!",
+    "goodbyeMsg": "💫 Adiós, ¡te extrañaremos! 🌸",
+    "warnLimit": 3,
+    "warns": {},
+    "modules": {
+      "economy": true,
+      "gacha": true
+    },
+    "primaryBot": ""
+  },
+  "120363400809314088@g.us": {
+    "active": true,
+    "onlyAdmin": false,
+    "antilink": false,
+    "alerts": true,
+    "welcome": true,
+    "goodbye": true,
+    "welcomeMsg": "🌸 ¡Bienvenido/a a Dreamland!",
+    "goodbyeMsg": "💫 Adiós, ¡te extrañaremos! 🌸",
+    "warnLimit": 3,
+    "warns": {},
+    "modules": {
+      "economy": true,
+      "gacha": true
+    },
+    "primaryBot": ""
+  },
+  "120363419211346583@g.us": {
+    "active": true,
+    "onlyAdmin": false,
+    "antilink": false,
+    "alerts": true,
+    "welcome": true,
+    "goodbye": true,
+    "welcomeMsg": "╭─❀ ᴅʀᴇᴀᴍʟᴀɴᴅ ᴡᴇʟᴄᴏᴍᴇ ❀─╮ 🌈 ¡Bienvenid@ {mentions} a *{grupo}*! 💫 🌸 Un lugar donde las estrellas sonríen y Kirby prepara pastelitos 🎀 💖 Esperamos que disfrutes, compartas y brilles con nosotros \ud83c",
+    "goodbyeMsg": "💫 Adiós, ¡te extrañaremos! 🌸",
+    "warnLimit": 3,
+    "warns": {},
+    "modules": {
+      "economy": true,
+      "gacha": true
+    },
+    "primaryBot": ""
+  },
+  "120363403267021581@g.us": {
+    "active": true,
+    "onlyAdmin": false,
+    "antilink": false,
+    "alerts": true,
+    "welcome": true,
+    "goodbye": true,
+    "welcomeMsg": "╭─❀ ᴅʀᴇᴀᴍʟᴀɴᴅ ᴡᴇʟᴄᴏᴍᴇ ❀─╮\n🌈 ¡Bienvenid@ {mentions} a *{grupo}*! 💫  \n🌸 Un lugar donde las estrellas sonríen y Kirby prepara pastelitos 🎀  \n💖 Esperamos que disfrutes, compartas y brilles con nosotros 🌠  \n╰──────────────🌸──────────────",
+    "goodbyeMsg": "💫 Adiós, ¡te extrañaremos! 🌸",
+    "warnLimit": 3,
+    "warns": {},
+    "modules": {
+      "economy": true,
+      "gacha": true
+    },
+    "primaryBot": ""
+  },
+  "120363401623319581@g.us": {
+    "active": true,
+    "onlyAdmin": false,
+    "antilink": false,
+    "alerts": true,
+    "welcome": true,
+    "goodbye": true,
+    "welcomeMsg": "🌸 ¡Bienvenido/a a Dreamland!",
+    "goodbyeMsg": "💫 Adiós, ¡te extrañaremos! 🌸",
+    "warnLimit": 3,
+    "warns": {},
+    "modules": {
+      "economy": true,
+      "gacha": true
+    },
+    "primaryBot": ""
+  },
+  "120363289441959236@g.us": {
+    "active": true,
+    "onlyAdmin": false,
+    "antilink": false,
+    "alerts": true,
+    "welcome": false,
+    "goodbye": false,
+    "welcomeMsg": "🌸 ¡Bienvenido/a a Dreamland!",
+    "goodbyeMsg": "💫 Adiós, ¡te extrañaremos! 🌸",
+    "warnLimit": 3,
+    "warns": {},
+    "modules": {
+      "economy": true,
+      "gacha": true
+    },
+    "primaryBot": ""
+  },
+  "120363230130884425@g.us": {
+    "active": true,
+    "onlyAdmin": true,
+    "antilink": true,
+    "goodbye": true,
+    "warnLimit": 4
+  },
+  "120363405350972084@g.us": {
+    "active": true,
+    "onlyAdmin": true,
+    "antilink": false,
+    "alerts": true,
+    "welcome": true,
+    "goodbye": true,
+    "welcomeMsg": "❀ *Bienvenido* a {grupo}!\n\t✰\n\n🌸 ─── ⋆⋅☆⋅⋆ ─── 🌸  \n✨ ¡Bienvenid@ {mentions}! ✨  \n\n📸 Foto:  \n👤 Nombre: {mentions}\n🌍 País:   \n🎂 Edad:   \n\n🌷 Te damos una cálida bienvenida a *Amigos  <3* 💫  \n💌 Esperamos que te sientas como en casa, compartas buenas vibras y te diviertas mucho con todos nosotros 🌈",
+    "goodbyeMsg": "💫 Adiós, ¡te extrañaremos! 🌸",
+    "warnLimit": 3,
+    "warns": {},
+    "modules": {
+      "economy": true,
+      "gacha": true
+    },
+    "primaryBot": ""
+  }
+}

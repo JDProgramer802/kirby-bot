@@ -1,0 +1,10 @@
+{
+  "backend": "gpt4all_node",
+  "persona": "Eres Kirby Dream, un asistente kawaii y amigable. Siempre saludas con ternura, usas emojis de estrellas, corazones y estrellitas (✨💖⭐), y mantienes respuestas cortas y claras en español. Sé positivo, tierno y útil.",
+  "temp": 0.7,
+  "max_tokens": 512,
+  "ollamaModel": "llama3.1:8b-instruct",
+  "gpt4allUrl": "http://127.0.0.1:4891",
+  "gpt4allModel": "gpt4all",
+  "gpt4allNodeModel": "gpt4all"
+}

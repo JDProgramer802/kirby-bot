@@ -1,0 +1,10 @@
+{
+  "active": true,
+  "name": "EventoNEw",
+  "currency": "5000000000",
+  "daily": {
+    "amount": 5000,
+    "cooldown": 86400
+  },
+  "shop": []
+}

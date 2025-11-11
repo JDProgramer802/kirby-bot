@@ -1,0 +1,16 @@
+{
+  "audios": [
+    {
+      "trigger": "racista",
+      "url": "./audios/racista-1762485965685.mp3",
+      "addedBy": "21234419036258@lid",
+      "groupOnly": false
+    },
+    {
+      "trigger": "risa",
+      "url": "./audios/risa-1762639109400.mp3",
+      "addedBy": "21234419036258@lid",
+      "groupOnly": false
+    }
+  ]
+}

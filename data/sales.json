@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": "kracko",
+      "price": 140722,
+      "sold": false
+    },
+    {
+      "id": "tuff",
+      "price": 160841,
+      "sold": false
+    },
+    {
+      "id": "golem",
+      "price": 79027,
+      "sold": false
+    },
+    {
+      "id": "shadow_kirby",
+      "price": 177493,
+      "sold": true,
+      "buyer": "31439210971146@lid",
+      "soldAt": "2025-11-08T19:10:24.333Z"
+    },
+    {
+      "id": "pajamas",
+      "price": 311207,
+      "sold": false
+    },
+    {
+      "id": "maid",
+      "price": 1422,
+      "sold": false
+    },
+    {
+      "id": "dress",
+      "price": 171893,
+      "sold": false
+    },
+    {
+      "id": "susie",
+      "price": 161154,
+      "sold": false
+    },
+    {
+      "id": "flame_knight",
+      "price": 370808,
+      "sold": false
+    },
+    {
+      "id": "demon_lord",
+      "price": 77334,
+      "sold": false
+    }
+  ],
+  "lastDay": "2025-11-08",
+  "generatedAt": "2025-11-08T19:09:50.688Z"
+}

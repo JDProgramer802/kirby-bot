@@ -1,0 +1,8 @@
+/**
+ * name: slap
+ * aliases: []
+ * description: Reacción anime: slap
+ * category: Reacciones
+ */
+import { sendReaction } from './_common.js'
+export async function run(ctx){ await sendReaction(ctx,'slap') }
