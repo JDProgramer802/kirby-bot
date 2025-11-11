@@ -3,6 +3,7 @@
 # Kirby Dream · Bot de WhatsApp (Baileys)
 
 <img src="./assets/banner.png" alt="Kirby Dream" width="800"/>
+<img src="https://v0-kirby-dream-web.vercel.app/kirby-logo.png" alt="Kirby Dream Logo" width="140"/>
 
 <p>
   <strong>Economía • Casino • Stickers • Audios • Gacha • Panel • Eventos</strong><br/>
@@ -13,6 +14,7 @@
 <p>
   <a href="https://nodejs.org/en"><img alt="Node" src="https://img.shields.io/badge/Node-≥20-339933?logo=node.js&logoColor=white"></a>
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-blue"></a>
+  <a href="https://v0-kirby-dream-web.vercel.app"><img alt="Website" src="https://img.shields.io/badge/Website-online-00C853?logo=vercel&logoColor=white"></a>
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen">
   <img alt="Made with Love" src="https://img.shields.io/badge/made%20with-love-ff69b4">
 </p>
